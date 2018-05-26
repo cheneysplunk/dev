@@ -17,7 +17,7 @@
       }
     ]
   },
-  "icon": "/images/icon_datasource.png",
+
   "id": "a79c3175-0f6f-4953-bc7d-922c173fc24b",
   "isLeaf": true,
   "name": "S3 API Calls via CloudTrail (Detailed API tracking for Amazon S3 bucket-level and object-level operations)",
