@@ -10,7 +10,7 @@
       {
         "name": "Splunk Add-on for AWS",
         "version": [
-          "4.2",
+          "4.2 ",
           "4.3",
           "4.4"
         ]
