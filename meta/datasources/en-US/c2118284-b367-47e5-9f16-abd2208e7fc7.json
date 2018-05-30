@@ -1,0 +1,16 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "hybrid", 
+            "3.4", 
+            "cloud", 
+            "4.2", 
+            "time"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "c2118284-b367-47e5-9f16-abd2208e7fc7", 
+    "name": "splunk-orangeswirl-aws", 
+    "parent": "f4807084-5714-4b9a-9fa5-b423dc0a32fa"
+}

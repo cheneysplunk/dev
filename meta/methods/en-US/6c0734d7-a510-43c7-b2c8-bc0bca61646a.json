@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "895135c9-ae17-4224-8928-c569f96eb655"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "real", 
+            "scale", 
+            "sunny", 
+            "great", 
+            "real"
+        ]
+    }, 
+    "id": "6c0734d7-a510-43c7-b2c8-bc0bca61646a", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-nightlight-orangeswirl", 
+    "parent": "adcd34f0-dad7-47fb-8b33-6b3113f676c3"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "hybrid", 
+            "time", 
+            "cloud", 
+            "sunny", 
+            "1.8"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "b8fa1d82-5901-4774-b07e-f7ddca6d9506", 
+    "name": "facebook-cicso-facebook", 
+    "parent": "091f5042-84eb-4cbf-9c3d-77e5656ad9b5"
+}

@@ -1,0 +1,17 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "resistors", 
+            "3.4", 
+            "4.2", 
+            "resistors", 
+            "real"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "52c05c81-b761-496d-8e52-2e2548153134", 
+    "name": "facebook-minty-minty", 
+    "parent": "c2118284-b367-47e5-9f16-abd2208e7fc7", 
+    "sourcetype": "linux_secure"
+}

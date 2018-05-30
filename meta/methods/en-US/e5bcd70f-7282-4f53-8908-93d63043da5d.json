@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "b7283223-68b4-496f-8ffa-ce0b7d4bd790"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "sunny", 
+            "sunny", 
+            "resistors", 
+            "quantum", 
+            "time"
+        ]
+    }, 
+    "id": "e5bcd70f-7282-4f53-8908-93d63043da5d", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-orangeswirl-facebook", 
+    "parent": "7ab378c2-6782-41b8-a4e1-57b11552c49c"
+}

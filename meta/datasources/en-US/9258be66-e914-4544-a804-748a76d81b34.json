@@ -1,0 +1,17 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "runinng", 
+            "real", 
+            "big-data", 
+            "crypto", 
+            "ssc"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "9258be66-e914-4544-a804-748a76d81b34", 
+    "name": "orangeswirl-nightlight-cicso", 
+    "parent": "052ab8fd-58a3-4a6e-a68a-20f2dcc3b6a0", 
+    "sourcetype": "log4j"
+}

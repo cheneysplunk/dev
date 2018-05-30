@@ -1,0 +1,16 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "real-time", 
+            "crypto", 
+            "hybrid", 
+            "crypto", 
+            "time"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "f89210b8-71e7-4ee6-81bf-43a67330de7a", 
+    "name": "splunk-splunk-facebook", 
+    "parent": "dbbea724-1091-4a78-bf3a-4fb11f5347d7"
+}

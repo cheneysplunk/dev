@@ -1,0 +1,17 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "crypto", 
+            "resistors", 
+            "42", 
+            "3.4", 
+            "ssc"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "12f6c728-4ca2-42a9-8a97-4fe66995e297", 
+    "name": "nightlight-splunk-azure", 
+    "parent": "f89210b8-71e7-4ee6-81bf-43a67330de7a", 
+    "sourcetype": "known_binary"
+}

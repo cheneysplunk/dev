@@ -1,0 +1,17 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "3.4", 
+            "3.4", 
+            "time", 
+            "runinng", 
+            "1.8"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "e885d450-b623-435b-8367-dea6f33af05c", 
+    "name": "facebook-azure-splunk", 
+    "parent": "052ab8fd-58a3-4a6e-a68a-20f2dcc3b6a0", 
+    "sourcetype": "linux_secure"
+}
