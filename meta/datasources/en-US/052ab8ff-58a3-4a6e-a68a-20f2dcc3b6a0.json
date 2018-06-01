@@ -10,7 +10,7 @@
         ]
     }, 
     "icon": "images/icon_datasource.png", 
-    "id": "052ab8fd-58a3-4a6e-a68a-20f2dcc3b6a0", 
+    "id": "052ab8ff-58a3-4a6e-a68a-20f2dcc3b6a0", 
     "name": "aws-nightlight-microsoft", 
     "parent": "a64066a5-2da7-41eb-974c-20a9769f6154"
 }
