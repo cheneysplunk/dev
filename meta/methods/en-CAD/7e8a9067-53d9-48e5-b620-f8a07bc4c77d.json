@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "95cf7b21-d154-4672-b96d-285eeec298df"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "real-time", 
+            "time", 
+            "cloud", 
+            "cloud", 
+            "4.2"
+        ]
+    }, 
+    "id": "7e8a9067-53d9-48e5-b620-f8a07bc4c77d", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-google-cicso", 
+    "parent": "94dbae05-9b3c-405f-8d3c-36e9fe618242"
+}
