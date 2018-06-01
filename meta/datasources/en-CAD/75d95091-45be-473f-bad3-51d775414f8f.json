@@ -1,0 +1,16 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "sunny", 
+            "real", 
+            "quantum", 
+            "ssc", 
+            "resistors"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "75d95091-45be-473f-bad3-51d775414f8f", 
+    "name": "aws-orangeswirl-cicso", 
+    "sourcetype": "log4j"
+}

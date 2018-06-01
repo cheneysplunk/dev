@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "729690fc-1a74-4b77-a9ad-5a96220e3d07"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "4.2", 
+            "big-data", 
+            "3.4", 
+            "crypto", 
+            "4.2"
+        ]
+    }, 
+    "id": "e56d8995-b0c8-4c24-b40e-5cefe049dbad", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-splunk-orangeswirl", 
+    "parent": "0cd89b57-2133-45d9-affb-862ea3ceda3d"
+}
