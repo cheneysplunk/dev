@@ -1,0 +1,120 @@
+{
+  "name": "Test topology",
+  "bestPractice": "TODO",
+  "dataSources": [
+    "2ad00070-75ba-477c-b0f7-a71e754fe73b"
+  ],
+  "description": "Test topology",
+  "id": "e9e7cbba-5a73-4ec0-d265-de1155caa497",
+  "instruction": {
+    "overview": {
+      "deployment": [
+        {
+          "desc": "A single instance that combines indexing and search management functions.",
+          "name": "Single Instance",
+          "topology": "SingleInstance"
+        },
+        {
+          "desc": "1. Small enterprise. One search head with two or three indexers.\n2. Medium enterprise. A small search head cluster, with several indexers.\n3. Large enterprise. A large search head cluster, with large numbers of indexers.",
+          "more_options": [
+            {
+              "name": "Search Head",
+              "options": [
+                {
+                  "name": "Single Search Head",
+                  "topology": "SH"
+                },
+                {
+                  "name": "Search Head Cluster",
+                  "topology": "SHC"
+                }
+              ]
+            },
+            {
+              "name": "Indexer",
+              "options": [
+                {
+                  "name": "Multiple Indexers",
+                  "topology": "INX"
+                },
+                {
+                  "name": "Indexers Cluster",
+                  "topology": "INC"
+                }
+              ]
+            }
+          ],
+          "name": "Distributed"
+        },
+        {
+          "desc": "You can get data into your Splunk Cloud deployment as follows:\n1. Forward data from data sources\n2. Install Splunk apps and add-ons\n3. Send data using HTTP protocol",
+          "name": "Cloud",
+          "topology": "Cloud"
+        }
+      ],
+      "config": [
+        {
+          "topologies": ["SingleInstance"],
+          "#document_ref": "singleInstance"
+        },
+        {
+          "topologies": ["SHC", "INC"],
+          "#document_ref": "distributed"
+        },
+        {
+          "topologies": ["SHC", "INX"],
+          "#document_ref": "distributed"
+        },
+        {
+          "topologies": ["SH", "INX"],
+          "#document_ref": "distributed"
+        },
+        {
+          "topologies": ["Cloud"],
+          "#document_ref": "cloud"
+        }
+      ],
+      "document_ref":{
+        "singleInstance": {
+          "diagram": "test/image_single.png",
+          "_name": "Splunk Single Configurations",
+          "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields",
+          "steps": [
+            "create CloudTrail",
+            "Configure AWS account",
+            "Install AWS Add-on",
+            "Create dead letter queue",
+            "Single Instance Step 5"
+          ]
+        },
+        "distributed": {
+          "diagram": "test/image_distributed.png",
+          "_name": "Splunk Distributed Configurations",
+          "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview",
+          "steps": [
+            "Install AWS Add-on",
+            "Create dead letter queue",
+            "Distributed Step 3",
+            "Distributed Step 4",
+            "Distributed Step 5",
+            "Distributed Step 6"
+          ]
+        },
+        "cloud": {
+          "diagram": "test/image_single.png",
+          "_name": "Splunk Cloud Configurations",
+          "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview",
+          "steps": [
+            "Cloud Step 1",
+            "Cloud Step 2",
+            "Cloud Step 3",
+            "Cloud Step 4",
+            "Cloud Step 5",
+            "Cloud Step 6",
+            "Cloud Step 7"
+          ]
+        }
+      }
+    }
+  }
+}
