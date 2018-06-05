@@ -3,5 +3,6 @@
   "icon": "icons/icon_datasource.png",
   "id": "2ad00070-75ba-477c-b0f7-a71e754fe73b",
   "name": "souce1",
+  "parent": "da2b3b24-2929-4fc0-8e8f-559d27a4318f",
   "sourcetypes": ["hello"]
 }
