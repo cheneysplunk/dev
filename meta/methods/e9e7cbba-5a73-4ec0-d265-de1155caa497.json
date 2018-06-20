@@ -76,7 +76,7 @@
       ],
       "document_ref":{
         "singleInstance": {
-          "diagram": "test/image_single.png",
+          "diagram": "images/test.png",
           "_name": "Splunk Single Configurations",
           "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields",
           "steps": [
@@ -88,7 +88,7 @@
           ]
         },
         "distributed": {
-          "diagram": "test/image_distributed.png",
+          "diagram": "images/test.png",
           "_name": "Splunk Distributed Configurations",
           "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview",
           "steps": [
@@ -101,7 +101,7 @@
           ]
         },
         "cloud": {
-          "diagram": "test/image_single.png",
+          "diagram": "images/test.png",
           "_name": "Splunk Cloud Configurations",
           "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview",
           "steps": [
