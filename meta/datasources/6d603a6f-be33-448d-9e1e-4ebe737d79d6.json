@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 cloud resistors real cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6d603a6f-be33-448d-9e1e-4ebe737d79d6", 
+    "name": "cicso-orangeswirl-splunk", 
+    "parent": "8a5ba794-c996-405d-8987-7e3ff7c3ed17", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

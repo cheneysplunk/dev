@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice 42 hybrid microservice 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e767173a-7237-4bd0-9d1a-22af24f89d33", 
+    "name": "nightlight-splunk-orangeswirl", 
+    "parent": "1b75f4ee-8ce1-430e-b79b-9455289729f3", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

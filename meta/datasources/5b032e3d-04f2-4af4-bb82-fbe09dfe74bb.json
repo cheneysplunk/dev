@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 quantum 3.4 4.2 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5b032e3d-04f2-4af4-bb82-fbe09dfe74bb", 
+    "name": "microsoft-nightlight-splunk", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

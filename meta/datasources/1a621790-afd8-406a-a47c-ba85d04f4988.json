@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto best real-time resistors 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1a621790-afd8-406a-a47c-ba85d04f4988", 
+    "name": "facebook-facebook-google", 
+    "parent": "2020ed02-6dff-466d-b7ef-54bbda9e74ff", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

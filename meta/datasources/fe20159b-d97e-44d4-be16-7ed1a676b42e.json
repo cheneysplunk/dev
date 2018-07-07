@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 1.8 runinng 1.8 hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fe20159b-d97e-44d4-be16-7ed1a676b42e", 
+    "name": "orangeswirl-facebook-splunk", 
+    "parent": "8f736095-c7ba-4dab-959b-b30d3328009f", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

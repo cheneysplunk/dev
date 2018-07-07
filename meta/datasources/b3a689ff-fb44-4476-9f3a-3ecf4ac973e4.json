@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc microservice real-time 42 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b3a689ff-fb44-4476-9f3a-3ecf4ac973e4", 
+    "name": "cicso-facebook-aws", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

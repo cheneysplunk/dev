@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time cloud 42 great microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d120882e-193f-47a4-9d4f-3b2712f2cb0e", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws", 
+    "parent": "2b203000-2836-483c-8fa5-c9c3a76b02d5", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

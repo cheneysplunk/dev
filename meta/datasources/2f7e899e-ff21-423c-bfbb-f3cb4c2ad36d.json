@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 4.2 quantum \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2f7e899e-ff21-423c-bfbb-f3cb4c2ad36d", 
+    "name": "microsoft-microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "dc38fff9-b57c-405e-999f-709adc621f44", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 big-data time big-data 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "70697f93-bfe7-4d60-b799-3d73fb644a3b", 
+    "name": "minty-minty-microsoft", 
+    "parent": "39c9566b-61ad-44e8-8618-300332bfa525", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

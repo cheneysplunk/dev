@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 resistors 42 big-data 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a0cb3bf1-906d-468b-9c37-87854307f346", 
+    "name": "minty-aws-google", 
+    "parent": "f2d36d90-0973-45da-8f3a-0a5f7e131127", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

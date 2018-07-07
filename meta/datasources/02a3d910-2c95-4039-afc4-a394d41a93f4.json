@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto great great real resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "02a3d910-2c95-4039-afc4-a394d41a93f4", 
+    "name": "splunk-aws-aws", 
+    "parent": "f0121e9a-644a-4736-88db-af9669fe08ff", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

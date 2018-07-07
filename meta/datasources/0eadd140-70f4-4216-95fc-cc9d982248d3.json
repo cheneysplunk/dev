@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 runinng 42 real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0eadd140-70f4-4216-95fc-cc9d982248d3", 
+    "name": "nightlight-orangeswirl-cicso", 
+    "parent": "57745147-b8cd-4563-8645-cf719363bd1e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

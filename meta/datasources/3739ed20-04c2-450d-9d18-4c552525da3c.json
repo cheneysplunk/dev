@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 resistors hybrid real big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3739ed20-04c2-450d-9d18-4c552525da3c", 
+    "name": "microsoft-azure-orangeswirl", 
+    "parent": "e685dc80-dfd1-443f-b69a-f082c96bcb9e", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

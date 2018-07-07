@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum great real-time quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6581c7b7-3461-4130-b580-e9531d04f109", 
+    "name": "cicso-splunk-azure", 
+    "parent": "22ba3632-d85c-4aac-b193-995d150cc611", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

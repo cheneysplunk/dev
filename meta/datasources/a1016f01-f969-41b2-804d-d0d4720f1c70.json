@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc quantum runinng runinng 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a1016f01-f969-41b2-804d-d0d4720f1c70", 
+    "name": "nightlight-google-facebook", 
+    "parent": "c2eca371-59de-4322-b2a8-2c718af4ffc2", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

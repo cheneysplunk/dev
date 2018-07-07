@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors quantum big-data big-data time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7757b2d3-37d9-458a-9d40-d51baa009382", 
+    "name": "minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-facebook", 
+    "parent": "98e3b158-195a-4e53-86a3-29201d581755", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

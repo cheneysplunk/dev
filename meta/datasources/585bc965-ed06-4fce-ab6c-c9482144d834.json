@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 3.4 runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "585bc965-ed06-4fce-ab6c-c9482144d834", 
+    "name": "azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "4adc0583-5bce-406f-98fe-ec36b16dcd0f", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

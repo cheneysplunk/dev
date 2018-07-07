@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 1.8 best 3.4 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "839622f5-96d3-4015-9c20-cd19779a476a", 
+    "name": "aws-splunk-nightlight", 
+    "parent": "07fbafcd-97a1-47e1-9590-efefe9923305", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

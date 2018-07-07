@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 quantum ssc crypto \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a9bd6976-9c8d-4438-b0bf-f4ab29950a92", 
+    "name": "microsoft-nightlight-microsoft", 
+    "parent": "073a0c88-a953-4ccc-ab5d-1c553cb01517", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

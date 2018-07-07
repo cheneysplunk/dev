@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great time ssc cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8d983464-3320-4650-b3bd-8d6e73db8bbf", 
+    "name": "microsoft-cicso-microsoft", 
+    "parent": "8011f293-d41e-4b9e-a629-5ae299db566c", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

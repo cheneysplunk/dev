@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng real-time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "08153252-22b6-4adf-8654-2e1ee8975726", 
+    "name": "microsoft-microsoft-google", 
+    "parent": "64c3abfc-ed56-461f-9332-3ef26b3d1670", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

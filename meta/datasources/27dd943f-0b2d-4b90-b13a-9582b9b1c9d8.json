@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud resistors hybrid 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "27dd943f-0b2d-4b90-b13a-9582b9b1c9d8", 
+    "name": "cicso-azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "069f8f44-441d-4210-8f38-500bb1b9b091", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

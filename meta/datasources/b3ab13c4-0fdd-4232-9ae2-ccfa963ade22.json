@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc crypto resistors 42 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b3ab13c4-0fdd-4232-9ae2-ccfa963ade22", 
+    "name": "splunk-cicso-facebook", 
+    "parent": "795779c3-d045-4510-9757-793ab85d25d8", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

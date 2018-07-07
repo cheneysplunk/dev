@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice crypto big-data big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cb5ec1fe-d328-46c7-a73c-b28fc7484a33", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "57745147-b8cd-4563-8645-cf719363bd1e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

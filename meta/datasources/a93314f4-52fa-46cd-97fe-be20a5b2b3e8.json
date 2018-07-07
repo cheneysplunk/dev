@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum resistors scale scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a93314f4-52fa-46cd-97fe-be20a5b2b3e8", 
+    "name": "google-minty-minty", 
+    "parent": "b99500cc-7105-437c-946a-b8189b6bbaa8", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors scale runinng runinng quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "08859a70-c14d-437f-8506-64cf93798b7d", 
+    "name": "google-microsoft-orangeswirl", 
+    "parent": "2080bc40-20c2-4d95-ba99-48c433ee14da", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

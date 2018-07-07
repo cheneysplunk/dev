@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time resistors 42 time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5a61bc9c-71dd-438e-9a0c-d6e9175a6515", 
+    "name": "cicso-microsoft-cicso", 
+    "parent": "be3ca747-7db1-402f-a3df-8a1c9cd5ea01", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

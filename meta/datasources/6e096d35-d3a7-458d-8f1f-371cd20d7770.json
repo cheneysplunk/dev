@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 microservice quantum scale resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6e096d35-d3a7-458d-8f1f-371cd20d7770", 
+    "name": "aws-minty-minty", 
+    "parent": "412d788d-f494-417a-bca0-432be995c669", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

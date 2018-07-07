@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real scale resistors time hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0086a589-2f55-4571-862f-8298a34057ce", 
+    "name": "microsoft-facebook-cicso", 
+    "parent": "b682bead-5856-4c5b-8f29-36e65a277928", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

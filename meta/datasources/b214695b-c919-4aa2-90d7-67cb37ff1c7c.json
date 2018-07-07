@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc hybrid quantum 3.4 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b214695b-c919-4aa2-90d7-67cb37ff1c7c", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

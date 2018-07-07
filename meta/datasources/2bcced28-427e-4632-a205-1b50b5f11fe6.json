@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real great 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2bcced28-427e-4632-a205-1b50b5f11fe6", 
+    "name": "facebook-facebook-microsoft", 
+    "parent": "d4a38cc4-1aa6-4fff-b17d-1b0ec6d41a43", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

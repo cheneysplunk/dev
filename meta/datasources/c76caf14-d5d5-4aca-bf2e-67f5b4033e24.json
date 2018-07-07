@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best best time 4.2 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c76caf14-d5d5-4aca-bf2e-67f5b4033e24", 
+    "name": "microsoft-splunk-cicso", 
+    "parent": "dd20d0d6-d5f6-4e06-8482-2e20db9c0676", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

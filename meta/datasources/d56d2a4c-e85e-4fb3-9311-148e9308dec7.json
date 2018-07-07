@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great real-time crypto time scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d56d2a4c-e85e-4fb3-9311-148e9308dec7", 
+    "name": "microsoft-orangeswirl-microsoft", 
+    "parent": "a0e08827-a4e9-48a5-be39-e6beb6f76788", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

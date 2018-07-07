@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3184bbcd-de89-4b83-8041-afd25f88696d", 
+    "name": "minty-aws-orangeswirl", 
+    "parent": "663318d4-9754-483b-a29c-6fda43566bb9", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

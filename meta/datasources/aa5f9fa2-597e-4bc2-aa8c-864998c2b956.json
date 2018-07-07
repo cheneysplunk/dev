@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud ssc resistors real hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aa5f9fa2-597e-4bc2-aa8c-864998c2b956", 
+    "name": "cicso-aws-google", 
+    "parent": "4adc0583-5bce-406f-98fe-ec36b16dcd0f", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

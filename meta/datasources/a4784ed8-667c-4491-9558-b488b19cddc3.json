@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors great big-data big-data real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a4784ed8-667c-4491-9558-b488b19cddc3", 
+    "name": "google-cicso-nightlight", 
+    "parent": "766d5cf6-709a-4712-92ce-9a1cf1c5ee6c", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

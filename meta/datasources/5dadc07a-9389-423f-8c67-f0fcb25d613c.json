@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best 42 quantum ssc crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5dadc07a-9389-423f-8c67-f0fcb25d613c", 
+    "name": "google-orangeswirl-orangeswirl", 
+    "parent": "402e107b-ba87-4a44-8c67-f27954c12585", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

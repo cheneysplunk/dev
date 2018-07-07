@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time crypto resistors 4.2 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "68664596-fadc-4cea-8409-14d1f4ec58a1", 
+    "name": "nightlight-orangeswirl-aws", 
+    "parent": "d5b0102d-43a7-4c11-b28a-0c0d8807ff8f", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

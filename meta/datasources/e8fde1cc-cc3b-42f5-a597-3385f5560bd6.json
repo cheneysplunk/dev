@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny time big-data runinng resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e8fde1cc-cc3b-42f5-a597-3385f5560bd6", 
+    "name": "splunk-splunk-aws", 
+    "parent": "10563e0a-770f-48d5-ac59-8c400788c16a", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

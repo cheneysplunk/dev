@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc big-data cloud scale big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "edc9a3b5-622a-46e0-bc54-0fb37d132afd", 
+    "name": "microsoft-orangeswirl-cicso", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

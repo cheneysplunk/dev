@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "64897919-49d1-4d6b-8226-4aa1180131ce", 
+    "name": "aws-azure-cicso", 
+    "parent": "073a0c88-a953-4ccc-ab5d-1c553cb01517", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

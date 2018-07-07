@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 sunny real-time hybrid crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6163dd9c-2986-4ded-8078-98cafac3cab4", 
+    "name": "orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "3d09920d-d45c-4498-8d1e-dcc48d13a068", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

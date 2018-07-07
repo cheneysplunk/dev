@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 cloud crypto time resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7c17d30b-32de-4be8-a36f-9b0673930894", 
+    "name": "orangeswirl-google-microsoft", 
+    "parent": "873962f7-8498-43ec-a329-71cccfa6f4f2", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 3.4 time microservice real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "66f592cf-b7c7-4bfd-a7e2-4e69fad71418", 
+    "name": "orangeswirl-facebook-microsoft", 
+    "parent": "5ef55ce2-d22d-4bdb-8cce-d2d6b3e1ec54", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

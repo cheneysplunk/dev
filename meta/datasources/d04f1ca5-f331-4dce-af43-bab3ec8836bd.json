@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time ssc crypto microservice 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d04f1ca5-f331-4dce-af43-bab3ec8836bd", 
+    "name": "aws-google-orangeswirl", 
+    "parent": "ac382ac4-8673-4e03-9fde-1c8fce7f7d37", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

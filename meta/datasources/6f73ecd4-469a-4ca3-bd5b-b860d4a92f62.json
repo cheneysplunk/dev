@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid ssc 1.8 time 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6f73ecd4-469a-4ca3-bd5b-b860d4a92f62", 
+    "name": "splunk-splunk-azure", 
+    "parent": "cd5add8d-ba7f-4b37-8419-47a0b9fac628", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

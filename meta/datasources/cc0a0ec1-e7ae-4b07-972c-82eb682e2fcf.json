@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time crypto 42 big-data sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cc0a0ec1-e7ae-4b07-972c-82eb682e2fcf", 
+    "name": "azure-orangeswirl-orangeswirl", 
+    "parent": "69eb5fd9-ec27-40eb-8ff4-2cfeac47792b", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

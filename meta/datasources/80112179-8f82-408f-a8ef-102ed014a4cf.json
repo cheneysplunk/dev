@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time real-time time scale 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "80112179-8f82-408f-a8ef-102ed014a4cf", 
+    "name": "orangeswirl-nightlight-minty", 
+    "parent": "64c3abfc-ed56-461f-9332-3ef26b3d1670", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

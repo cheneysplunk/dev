@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice resistors microservice big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fb3ff354-61a5-4f8e-84b7-248c33dde1de", 
+    "name": "azure-splunk-orangeswirl", 
+    "parent": "1cf49cfa-8c03-42f2-a966-141a032f0eff", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

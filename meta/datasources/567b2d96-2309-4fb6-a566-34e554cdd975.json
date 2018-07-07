@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc great cloud quantum quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "567b2d96-2309-4fb6-a566-34e554cdd975", 
+    "name": "splunk-google-minty", 
+    "parent": "402e57ee-2afb-4fed-b589-836cf6744a08", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

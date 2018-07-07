@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny scale 3.4 crypto 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eebd0257-8c66-4159-a75a-dba7596114cd", 
+    "name": "azure-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "ee2ed2a9-627b-4462-88ac-bb7682753121", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

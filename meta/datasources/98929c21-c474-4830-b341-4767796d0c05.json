@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great real-time hybrid quantum resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "98929c21-c474-4830-b341-4767796d0c05", 
+    "name": "orangeswirl-microsoft-minty", 
+    "parent": "0d89f85a-3ad0-4476-826c-fa41543c3888", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

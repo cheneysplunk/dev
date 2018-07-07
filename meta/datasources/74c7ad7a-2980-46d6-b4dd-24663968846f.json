@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best hybrid scale scale ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "74c7ad7a-2980-46d6-b4dd-24663968846f", 
+    "name": "nightlight-nightlight-nightlight", 
+    "parent": "5d9773d8-664d-4dc0-8157-a28b3c60672b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

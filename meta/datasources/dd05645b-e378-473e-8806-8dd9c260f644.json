@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors cloud crypto 3.4 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dd05645b-e378-473e-8806-8dd9c260f644", 
+    "name": "cicso-aws-microsoft", 
+    "parent": "2a9ef710-7bd3-4081-8652-109298c2d6d9", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

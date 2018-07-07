@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng hybrid quantum cloud 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "253f5d98-2ede-408e-b454-4e64666ab66e", 
+    "name": "microsoft-aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "69eb5fd9-ec27-40eb-8ff4-2cfeac47792b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

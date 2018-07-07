@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 runinng scale sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b1ef71dd-1e46-4cf4-89b0-7db39b52cdbe", 
+    "name": "google-orangeswirl-splunk", 
+    "parent": "427b570c-c46a-41dc-9eb5-1af48ee7db3b", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

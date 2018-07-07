@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 1.8 great 3.4 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "46eaa461-bf1e-4d09-bfc0-76cd6174b565", 
+    "name": "splunk-orangeswirl-microsoft", 
+    "parent": "ac947c21-45cc-4263-9a8e-32ea17951bbb", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

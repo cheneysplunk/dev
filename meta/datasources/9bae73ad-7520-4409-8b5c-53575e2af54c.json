@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best ssc hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9bae73ad-7520-4409-8b5c-53575e2af54c", 
+    "name": "splunk-orangeswirl-google", 
+    "parent": "2a252191-991d-4c75-bcf6-52c26044f4e1", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

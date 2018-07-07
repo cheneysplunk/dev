@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 3.4 real \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9e53ac75-95fc-41ba-8b9d-219bfa34beb4", 
+    "name": "nightlight-google-microsoft", 
+    "parent": "69eb5fd9-ec27-40eb-8ff4-2cfeac47792b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

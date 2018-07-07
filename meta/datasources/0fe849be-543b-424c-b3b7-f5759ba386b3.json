@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum big-data hybrid resistors ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0fe849be-543b-424c-b3b7-f5759ba386b3", 
+    "name": "google-minty-minty", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

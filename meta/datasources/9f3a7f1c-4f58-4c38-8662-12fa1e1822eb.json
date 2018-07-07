@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud cloud microservice 3.4 real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9f3a7f1c-4f58-4c38-8662-12fa1e1822eb", 
+    "name": "facebook-azure-aws", 
+    "parent": "23bfd978-4593-416d-98d5-f15dc11d32c9", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

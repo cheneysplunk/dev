@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors time microservice runinng cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7dc7f8a4-4cb7-470e-9052-58b89e255a01", 
+    "name": "azure-aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "b99500cc-7105-437c-946a-b8189b6bbaa8", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

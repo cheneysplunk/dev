@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice ssc microservice cloud 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "88d0f26a-efb7-4d5f-a24f-6d836e41702e", 
+    "name": "facebook-aws-orangeswirl", 
+    "parent": "198e6b47-5d6c-4cb9-b570-2687ec3df973", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

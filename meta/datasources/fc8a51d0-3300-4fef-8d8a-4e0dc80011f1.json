@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice crypto ssc time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fc8a51d0-3300-4fef-8d8a-4e0dc80011f1", 
+    "name": "nightlight-microsoft-orangeswirl", 
+    "parent": "23bfd978-4593-416d-98d5-f15dc11d32c9", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

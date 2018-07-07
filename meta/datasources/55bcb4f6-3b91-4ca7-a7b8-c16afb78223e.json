@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 runinng resistors 42 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "55bcb4f6-3b91-4ca7-a7b8-c16afb78223e", 
+    "name": "cicso-aws-facebook", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

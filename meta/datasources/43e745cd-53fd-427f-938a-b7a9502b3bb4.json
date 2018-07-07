@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 real big-data real-time quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "43e745cd-53fd-427f-938a-b7a9502b3bb4", 
+    "name": "minty-nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "000c7ef7-9c2f-4b9e-83f2-f332a00c1e03", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

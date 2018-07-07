@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 ssc great great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8dbc4218-8fa3-4f47-9bd8-6f7d1f17dc47", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-cicso", 
+    "parent": "49cc1d7a-6afc-471f-a446-638bcf9bcb97", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

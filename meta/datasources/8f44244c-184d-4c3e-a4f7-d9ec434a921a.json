@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2 resistors quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8f44244c-184d-4c3e-a4f7-d9ec434a921a", 
+    "name": "cicso-aws-orangeswirl", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

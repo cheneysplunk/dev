@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud runinng quantum 4.2 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "84da3602-eb95-4fb1-9bd2-78921539e91c", 
+    "name": "minty-cicso-facebook", 
+    "parent": "72a0de46-6328-449e-9c96-2e4f758d7cf1", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

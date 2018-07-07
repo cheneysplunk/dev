@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real resistors ssc sunny quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fe00466a-c49d-4261-a4a7-84d8d790ac7e", 
+    "name": "orangeswirl-azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "2cd5c030-4c86-4e79-87bc-7bfdaaa79a52", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

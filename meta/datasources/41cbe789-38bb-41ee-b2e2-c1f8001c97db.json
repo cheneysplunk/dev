@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real microservice real best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "41cbe789-38bb-41ee-b2e2-c1f8001c97db", 
+    "name": "facebook-cicso-microsoft", 
+    "parent": "f2d36d90-0973-45da-8f3a-0a5f7e131127", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

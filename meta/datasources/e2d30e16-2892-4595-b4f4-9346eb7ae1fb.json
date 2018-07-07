@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best real resistors scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e2d30e16-2892-4595-b4f4-9346eb7ae1fb", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso-orangeswirl", 
+    "parent": "fcdc6e13-f503-497e-8047-5baa666243a7", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

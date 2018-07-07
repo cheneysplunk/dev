@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng scale crypto 3.4 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "416d6f2e-f0bd-4030-b8d3-b4594cf7073c", 
+    "name": "azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "b29883fc-e3bc-41aa-a0b2-82b4fcd44e55", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

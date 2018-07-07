@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 runinng real 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ce7a6076-eb8b-4a0d-b3af-8592b3420e74", 
+    "name": "splunk-minty-microsoft", 
+    "parent": "1492cc6e-b156-4ac9-b64e-0bc00e98bd1e", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

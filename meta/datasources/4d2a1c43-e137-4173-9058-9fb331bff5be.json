@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time quantum sunny 1.8 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4d2a1c43-e137-4173-9058-9fb331bff5be", 
+    "name": "azure-minty-microsoft", 
+    "parent": "23b5e211-c383-4858-9fdd-b4966f95431b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

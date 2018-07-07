@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "455e15af-3db1-4c2a-908e-e185d04de1a7", 
+    "name": "nightlight-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "016f4785-6854-495b-a3a0-8ac31595640a", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

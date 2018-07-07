@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best microservice sunny sunny time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "480b8acd-3b64-4399-aa92-d33099dc677f", 
+    "name": "facebook-microsoft-google", 
+    "parent": "17deda06-bfb6-4b40-9b90-2eac0129618a", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

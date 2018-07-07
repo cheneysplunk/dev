@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e951ea63-8f75-4fff-98e0-784b5e71c188", 
+    "name": "nightlight-microsoft-cicso", 
+    "parent": "2080bc40-20c2-4d95-ba99-48c433ee14da", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

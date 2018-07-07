@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great quantum great best 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ceb6d314-a18e-4527-99a2-bb25e9f8c7c7", 
+    "name": "splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google", 
+    "parent": "c54fa970-1f45-491d-aa71-8b8aad45921c", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

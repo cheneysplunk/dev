@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc time 3.4 time ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fb09d041-7970-4a1a-99c2-1a414659ee84", 
+    "name": "orangeswirl-nightlight-facebook", 
+    "parent": "9520dcc6-73a4-41c8-bc46-7475494beff8", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

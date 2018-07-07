@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud hybrid quantum resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aaa6a517-e200-431f-8849-5466512c1655", 
+    "name": "facebook-microsoft-microsoft", 
+    "parent": "198e6b47-5d6c-4cb9-b570-2687ec3df973", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

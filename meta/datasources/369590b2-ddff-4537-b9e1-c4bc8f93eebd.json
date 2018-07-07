@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors best crypto great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "369590b2-ddff-4537-b9e1-c4bc8f93eebd", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight", 
+    "parent": "d555ae18-43d5-4ae9-81d5-9dc5ce163584", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

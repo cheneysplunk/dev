@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale real 1.8 quantum great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "36b8a71e-159c-446e-9fd4-70e799455bdf", 
+    "name": "google-azure-minty", 
+    "parent": "50b00453-5a9e-4edd-b953-56ee9ec9bbf0", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

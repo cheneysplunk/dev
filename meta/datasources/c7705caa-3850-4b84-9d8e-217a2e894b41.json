@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 hybrid 1.8 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c7705caa-3850-4b84-9d8e-217a2e894b41", 
+    "name": "azure-azure-facebook", 
+    "parent": "b3a2a085-86af-472a-9c01-13fe3d278321", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

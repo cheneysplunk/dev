@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time ssc quantum best cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8b988b83-3669-405d-907c-e2ceafb1613a", 
+    "name": "nightlight-orangeswirl-aws", 
+    "parent": "312210db-817d-48aa-abe6-57b767e6b34e", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

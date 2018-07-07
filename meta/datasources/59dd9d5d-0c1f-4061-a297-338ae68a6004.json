@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale real scale ssc microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "59dd9d5d-0c1f-4061-a297-338ae68a6004", 
+    "name": "aws-minty-cicso", 
+    "parent": "c5011133-1f4a-49ca-8770-fccb4b537e34", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

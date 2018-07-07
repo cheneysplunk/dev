@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 42 hybrid real quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c701eb2d-68e6-42b8-b2d7-bd615feb0f69", 
+    "name": "aws-minty-nightlight", 
+    "parent": "cd1f9f37-a32a-42eb-b3f7-cae3ce3b08c8", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

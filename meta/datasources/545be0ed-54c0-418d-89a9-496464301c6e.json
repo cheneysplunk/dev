@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best microservice scale ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "545be0ed-54c0-418d-89a9-496464301c6e", 
+    "name": "nightlight-azure-cicso", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

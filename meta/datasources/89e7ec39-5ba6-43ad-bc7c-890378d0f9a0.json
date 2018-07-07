@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum big-data 1.8 great best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "89e7ec39-5ba6-43ad-bc7c-890378d0f9a0", 
+    "name": "azure-nightlight-google", 
+    "parent": "fa00a835-3cc1-4d4c-891a-88a35e2af31f", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

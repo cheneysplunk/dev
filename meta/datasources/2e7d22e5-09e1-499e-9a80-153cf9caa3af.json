@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data time 1.8 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2e7d22e5-09e1-499e-9a80-153cf9caa3af", 
+    "name": "orangeswirl-facebook-orangeswirl", 
+    "parent": "183a7090-0cec-402b-b44c-1eb2043ad0b0", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

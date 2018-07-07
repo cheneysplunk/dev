@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 ssc time resistors great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a40bdc62-a25f-41b6-81c1-f01dead33755", 
+    "name": "microsoft-splunk-nightlight", 
+    "parent": "dc38fff9-b57c-405e-999f-709adc621f44", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

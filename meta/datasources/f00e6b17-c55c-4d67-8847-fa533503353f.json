@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great big-data sunny runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f00e6b17-c55c-4d67-8847-fa533503353f", 
+    "name": "cicso-facebook-microsoft", 
+    "parent": "86c30435-8d90-481f-9c7f-fbdedbb65238", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale real-time runinng great resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "73e99f51-6d46-46d5-a332-e648f632f7b4", 
+    "name": "azure-splunk-aws", 
+    "parent": "c73298c1-14bb-4491-a2fd-ba320acf094e", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

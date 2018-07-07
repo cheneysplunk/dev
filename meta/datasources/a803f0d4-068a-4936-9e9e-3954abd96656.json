@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 ssc ssc great quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a803f0d4-068a-4936-9e9e-3954abd96656", 
+    "name": "nightlight-orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "ecdfc573-b3ef-4db0-90f1-92a60c1cef28", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

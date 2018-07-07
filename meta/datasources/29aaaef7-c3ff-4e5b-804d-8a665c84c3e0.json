@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum resistors time hybrid 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "29aaaef7-c3ff-4e5b-804d-8a665c84c3e0", 
+    "name": "cicso-aws-cicso", 
+    "parent": "412d788d-f494-417a-bca0-432be995c669", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great best \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "04adb8f9-b940-41be-8119-726ae5ef82f9", 
+    "name": "minty-aws-splunk", 
+    "parent": "bba9ccad-c73e-4ca9-9f14-5acd4109b4e3", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

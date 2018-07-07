@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum sunny cloud real-time time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a66582e8-125d-4f51-bdbe-f9be7a6ae185", 
+    "name": "google-splunk-microsoft", 
+    "parent": "ca0f1a41-443e-4115-8ca3-1956ba64d1ba", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

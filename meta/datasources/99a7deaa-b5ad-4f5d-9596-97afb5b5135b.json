@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 42 sunny cloud 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "99a7deaa-b5ad-4f5d-9596-97afb5b5135b", 
+    "name": "google-aws-cicso", 
+    "parent": "9520dcc6-73a4-41c8-bc46-7475494beff8", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

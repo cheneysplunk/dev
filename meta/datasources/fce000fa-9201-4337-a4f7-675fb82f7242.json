@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 scale resistors real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fce000fa-9201-4337-a4f7-675fb82f7242", 
+    "name": "orangeswirl-orangeswirl-splunk", 
+    "parent": "f6ec488d-e3f9-449e-aec7-d4249833044e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

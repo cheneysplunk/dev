@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 1.8 crypto resistors big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "05bfe393-1f74-49cd-a37b-31857dbd4370", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-microsoft-cicso", 
+    "parent": "ed4956e2-5ac7-4693-91de-7fa676b39714", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

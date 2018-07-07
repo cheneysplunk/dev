@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 best best crypto resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "17a38817-91a3-40d2-8476-c092352b37f7", 
+    "name": "microsoft-google-azure", 
+    "parent": "70ab33fa-b14c-424e-8b21-9d9e55a7f552", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

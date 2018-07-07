@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors scale ssc real-time quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4d54026b-d67c-4bdf-a7fc-838128aafcb0", 
+    "name": "orangeswirl-aws-aws", 
+    "parent": "e78cc320-3c0a-474a-8b61-b6a1086273b9", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

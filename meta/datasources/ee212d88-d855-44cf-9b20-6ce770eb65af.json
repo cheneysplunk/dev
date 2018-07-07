@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng 4.2 big-data real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ee212d88-d855-44cf-9b20-6ce770eb65af", 
+    "name": "orangeswirl-google-aws", 
+    "parent": "016f4785-6854-495b-a3a0-8ac31595640a", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

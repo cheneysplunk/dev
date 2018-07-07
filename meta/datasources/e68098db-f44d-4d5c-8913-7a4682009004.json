@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc big-data 3.4 3.4 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e68098db-f44d-4d5c-8913-7a4682009004", 
+    "name": "splunk-cicso-aws", 
+    "parent": "1a745d80-6ddd-4f81-944d-d824804f12fc", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

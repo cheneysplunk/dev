@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 42 scale quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "adb3f55f-ec70-46a5-abc4-8b2967bdfb47", 
+    "name": "cicso-nightlight-cicso", 
+    "parent": "c3cba090-6ee7-478e-8a95-f29a1d325efc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

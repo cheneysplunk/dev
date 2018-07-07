@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 3.4 quantum 42 runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ad076be7-de8a-4880-a6c9-ecdbd121c7cb", 
+    "name": "facebook-facebook-minty", 
+    "parent": "5e2bc66d-4cda-49ed-af1b-995c9814cded", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

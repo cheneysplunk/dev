@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 1.8 time resistors cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a98a1124-0b1c-4215-bdb4-79b127833bad", 
+    "name": "minty-microsoft-nightlight", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

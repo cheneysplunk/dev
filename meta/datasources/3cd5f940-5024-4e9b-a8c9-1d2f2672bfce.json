@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng 3.4 real-time great resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3cd5f940-5024-4e9b-a8c9-1d2f2672bfce", 
+    "name": "google-google-aws", 
+    "parent": "0b249c84-9b79-4414-856b-a8a4b142cf2e", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

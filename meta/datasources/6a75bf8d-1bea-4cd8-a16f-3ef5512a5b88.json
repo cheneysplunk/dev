@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud hybrid 4.2 real-time resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6a75bf8d-1bea-4cd8-a16f-3ef5512a5b88", 
+    "name": "azure-nightlight-nightlight", 
+    "parent": "a929132a-dc4c-448b-9edd-1eb8e8497108", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 4.2 ssc crypto runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2dcfcda1-b3c3-406f-8686-720984d9f6e0", 
+    "name": "orangeswirl-microsoft-aws", 
+    "parent": "dd20d0d6-d5f6-4e06-8482-2e20db9c0676", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

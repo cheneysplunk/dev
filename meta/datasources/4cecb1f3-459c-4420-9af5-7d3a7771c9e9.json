@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale crypto time runinng 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4cecb1f3-459c-4420-9af5-7d3a7771c9e9", 
+    "name": "aws-nightlight-nightlight", 
+    "parent": "96d96e76-5255-49e3-9367-59ba2cdda4a5", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

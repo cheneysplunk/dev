@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors cloud cloud sunny time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4ae728e9-dbc3-49a6-83bb-a4a9e856da03", 
+    "name": "orangeswirl-azure-cicso", 
+    "parent": "de620fbf-283d-47f6-951a-ab74ae1dd23c", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

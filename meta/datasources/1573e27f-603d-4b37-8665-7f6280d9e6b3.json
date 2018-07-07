@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng 4.2 resistors resistors \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1573e27f-603d-4b37-8665-7f6280d9e6b3", 
+    "name": "facebook-orangeswirl-nightlight", 
+    "parent": "16be2b22-46c0-491d-bc3d-d0a04871a82c", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny cloud hybrid runinng real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b3cb3fbc-9f4e-4d4f-9b72-15e1b15202c1", 
+    "name": "splunk-splunk-google", 
+    "parent": "339119d2-519a-4c44-aa0b-c54442e48679", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

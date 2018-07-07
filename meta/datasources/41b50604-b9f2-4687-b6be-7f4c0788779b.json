@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 3.4 microservice crypto best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "41b50604-b9f2-4687-b6be-7f4c0788779b", 
+    "name": "minty-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "8ea7a973-ad13-44b6-a484-a3919529a319", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 4.2 cloud real real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e46f471a-8be4-41a4-b0e1-6fc82193f93e", 
+    "name": "google-google-aws", 
+    "parent": "7ac6e248-d0c2-4add-a661-384d37e1e4c8", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

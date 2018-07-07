@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8 cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ba2d5972-f318-4f86-8607-a023e707a588", 
+    "name": "aws-minty-facebook", 
+    "parent": "fd9ddc0e-17db-49c2-94c4-0bd470b20a45", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

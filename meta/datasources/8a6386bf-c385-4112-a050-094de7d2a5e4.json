@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data resistors runinng 42 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8a6386bf-c385-4112-a050-094de7d2a5e4", 
+    "name": "azure-google-google", 
+    "parent": "7e15aad4-6c49-4be6-817c-5d273030c5ce", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

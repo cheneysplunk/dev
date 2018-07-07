@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 3.4 real runinng best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a922f55d-bda1-4fa9-b0f0-f23820a528fe", 
+    "name": "nightlight-azure-minty", 
+    "parent": "ce20b06b-be02-416d-91ee-465c6e85d7c2", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

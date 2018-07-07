@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time cloud real-time crypto scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ab958f35-45c8-4180-9ede-03dbe6eab46c", 
+    "name": "cicso-nightlight-orangeswirl", 
+    "parent": "9520dcc6-73a4-41c8-bc46-7475494beff8", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

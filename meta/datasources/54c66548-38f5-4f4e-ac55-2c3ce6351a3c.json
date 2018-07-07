@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real crypto real real runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "54c66548-38f5-4f4e-ac55-2c3ce6351a3c", 
+    "name": "nightlight-microsoft-minty", 
+    "parent": "dd20d0d6-d5f6-4e06-8482-2e20db9c0676", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

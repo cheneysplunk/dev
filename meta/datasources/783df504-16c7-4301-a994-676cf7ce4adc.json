@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 best quantum microservice 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "783df504-16c7-4301-a994-676cf7ce4adc", 
+    "name": "azure-cicso-facebook", 
+    "parent": "a4edad5f-51d1-4327-9217-4b1dea0b99f0", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

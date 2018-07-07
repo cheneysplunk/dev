@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real microservice microservice resistors hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ab100ccd-0b29-4458-96fe-3ba5de4b8166", 
+    "name": "orangeswirl-minty-azure", 
+    "parent": "f04a7836-7d3c-4b0b-b2b3-fa4a861c4a5e", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale scale resistors scale time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "64dffb75-da81-4469-901b-43f8029d4ddc", 
+    "name": "facebook-azure-orangeswirl", 
+    "parent": "2020ed02-6dff-466d-b7ef-54bbda9e74ff", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors big-data big-data time 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2bfa7b3a-2445-4e16-aafe-b9c564b9dc6d", 
+    "name": "azure-cicso-google", 
+    "parent": "dbe0f17d-353c-4eef-921b-8d450ba53b90", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

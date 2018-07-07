@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice ssc quantum real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4938968b-c05a-473f-9aeb-642bd2393ffb", 
+    "name": "facebook-aws-splunk", 
+    "parent": "2d916c84-8915-4ec2-bab8-946d388d305e", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

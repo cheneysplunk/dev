@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 1.8 time quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "18617701-9fc9-4021-9ecb-911522db7ae4", 
+    "name": "facebook-cicso-google", 
+    "parent": "3293ec85-90e3-4fa5-9224-4e52e8db7978", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

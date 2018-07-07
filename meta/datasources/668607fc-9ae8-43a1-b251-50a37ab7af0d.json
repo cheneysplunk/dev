@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 cloud quantum great sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "668607fc-9ae8-43a1-b251-50a37ab7af0d", 
+    "name": "orangeswirl-google-nightlight", 
+    "parent": "e839f4fa-7fe0-4a98-b718-5aa29448d69d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid cloud ssc big-data real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "116de35c-8905-4046-b847-5ff92dcfd0db", 
+    "name": "cicso-microsoft-orangeswirl", 
+    "parent": "17712123-06d2-4897-b2e2-6ce1386f059b", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

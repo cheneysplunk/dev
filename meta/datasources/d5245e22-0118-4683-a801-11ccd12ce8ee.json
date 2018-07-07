@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors time 4.2 4.2 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d5245e22-0118-4683-a801-11ccd12ce8ee", 
+    "name": "splunk-cicso-cicso", 
+    "parent": "21c4eb88-c231-4eb9-bd6a-46af999fb286", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

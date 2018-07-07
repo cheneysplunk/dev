@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 1.8 ssc ssc best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a8f85c46-4917-490b-b3cd-669577377a00", 
+    "name": "minty-google-aws", 
+    "parent": "71130160-b292-4eaa-b840-090381593820", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

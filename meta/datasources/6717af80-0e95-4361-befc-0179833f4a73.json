@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors best great crypto ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6717af80-0e95-4361-befc-0179833f4a73", 
+    "name": "splunk-microsoft-google", 
+    "parent": "cf2c919e-576d-4eed-8340-963314bb6311", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice scale big-data 3.4 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f6d4608e-d345-4001-a3ca-3e5025abe66a", 
+    "name": "microsoft-aws-microsoft", 
+    "parent": "23bfd978-4593-416d-98d5-f15dc11d32c9", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

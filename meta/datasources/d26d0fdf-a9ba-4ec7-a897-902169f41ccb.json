@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny great scale real-time ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d26d0fdf-a9ba-4ec7-a897-902169f41ccb", 
+    "name": "microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google", 
+    "parent": "a473794e-519a-435b-916f-4444238d107c", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

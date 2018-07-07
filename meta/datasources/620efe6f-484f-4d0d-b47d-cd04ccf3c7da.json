@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc ssc best hybrid runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "620efe6f-484f-4d0d-b47d-cd04ccf3c7da", 
+    "name": "nightlight-microsoft-minty", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

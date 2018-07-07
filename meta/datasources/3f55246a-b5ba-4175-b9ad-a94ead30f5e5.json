@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 4.2 great microservice real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3f55246a-b5ba-4175-b9ad-a94ead30f5e5", 
+    "name": "nightlight-nightlight-minty", 
+    "parent": "7ac6e248-d0c2-4add-a661-384d37e1e4c8", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

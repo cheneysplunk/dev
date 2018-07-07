@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid hybrid best sunny ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "82b64dab-99dc-46ab-8ea6-0f53014773b6", 
+    "name": "google-facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "4adc0583-5bce-406f-98fe-ec36b16dcd0f", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real big-data runinng ssc resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f74523d3-5b84-4cac-845b-d333ba72a7b4", 
+    "name": "orangeswirl-minty-cicso", 
+    "parent": "c54fa970-1f45-491d-aa71-8b8aad45921c", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

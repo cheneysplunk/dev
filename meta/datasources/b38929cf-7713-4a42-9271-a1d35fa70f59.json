@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors big-data microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b38929cf-7713-4a42-9271-a1d35fa70f59", 
+    "name": "azure-microsoft-azure", 
+    "parent": "0b249c84-9b79-4414-856b-a8a4b142cf2e", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

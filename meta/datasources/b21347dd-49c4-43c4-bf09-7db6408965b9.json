@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 1.8 microservice best ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b21347dd-49c4-43c4-bf09-7db6408965b9", 
+    "name": "microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "70ab33fa-b14c-424e-8b21-9d9e55a7f552", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

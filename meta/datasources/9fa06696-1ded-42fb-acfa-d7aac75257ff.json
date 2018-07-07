@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid microservice cloud quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9fa06696-1ded-42fb-acfa-d7aac75257ff", 
+    "name": "azure-orangeswirl-splunk", 
+    "parent": "57745147-b8cd-4563-8645-cf719363bd1e", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

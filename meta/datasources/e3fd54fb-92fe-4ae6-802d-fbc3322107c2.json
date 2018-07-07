@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time hybrid hybrid best 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e3fd54fb-92fe-4ae6-802d-fbc3322107c2", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk-facebook", 
+    "parent": "66747e6a-dc5e-42d7-b7f4-f437f290e8ec", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

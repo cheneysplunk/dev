@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice 3.4 best crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d117415b-88dc-4180-b461-3f580e936735", 
+    "name": "splunk-google-facebook", 
+    "parent": "df8b4088-a6b7-41fa-96a5-d61dbf74c170", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

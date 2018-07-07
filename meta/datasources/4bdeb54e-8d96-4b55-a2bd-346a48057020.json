@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great ssc 42 scale crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4bdeb54e-8d96-4b55-a2bd-346a48057020", 
+    "name": "orangeswirl-nightlight-facebook", 
+    "parent": "c3cba090-6ee7-478e-8a95-f29a1d325efc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

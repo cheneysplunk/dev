@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid cloud ssc runinng real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f7bd0e25-cdd1-4db4-b93b-2cc84237d5e8", 
+    "name": "microsoft-aws-cicso", 
+    "parent": "2db625f8-a0ff-45c8-86e3-d0c9b486b4ce", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}
