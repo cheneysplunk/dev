@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 1.8 resistors best big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cf8d9963-35ec-499c-9e3f-c32c85244eb9", 
+    "name": "azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-facebook", 
+    "parent": "e839f4fa-7fe0-4a98-b718-5aa29448d69d", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

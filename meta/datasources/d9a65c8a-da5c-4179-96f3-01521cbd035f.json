@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum hybrid 3.4 quantum sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d9a65c8a-da5c-4179-96f3-01521cbd035f", 
+    "name": "nightlight-minty-facebook", 
+    "parent": "427b570c-c46a-41dc-9eb5-1af48ee7db3b", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

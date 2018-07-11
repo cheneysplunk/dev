@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 real ssc resistors hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f8f2c7b4-53e0-45f0-a318-c12d63bd0d68", 
+    "name": "google-azure-orangeswirl", 
+    "parent": "d4019860-9d03-468d-9bc7-9da07c410662", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

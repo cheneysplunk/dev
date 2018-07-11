@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 42 crypto cloud real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f217fee1-d387-447a-b0c4-f2f4b5c89880", 
+    "name": "facebook-nightlight-orangeswirl", 
+    "parent": "5ef55ce2-d22d-4bdb-8cce-d2d6b3e1ec54", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

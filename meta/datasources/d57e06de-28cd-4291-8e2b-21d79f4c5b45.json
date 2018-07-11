@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice quantum 1.8 cloud sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d57e06de-28cd-4291-8e2b-21d79f4c5b45", 
+    "name": "azure-aws-aws", 
+    "parent": "1b75f4ee-8ce1-430e-b79b-9455289729f3", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

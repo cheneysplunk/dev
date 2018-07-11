@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 resistors cloud hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f2efe9a7-f876-4db9-850a-ca58ff548a3e", 
+    "name": "cicso-minty-aws", 
+    "parent": "2a9ef710-7bd3-4081-8652-109298c2d6d9", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

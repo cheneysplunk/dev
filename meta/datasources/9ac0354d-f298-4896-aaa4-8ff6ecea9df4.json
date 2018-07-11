@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors scale great crypto ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9ac0354d-f298-4896-aaa4-8ff6ecea9df4", 
+    "name": "google-google-cicso", 
+    "parent": "8ca6d59c-f996-4bf7-bff2-0b495baeb561", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

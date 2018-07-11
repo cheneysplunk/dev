@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice 1.8 sunny sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "87b2aa85-9c8e-401e-b492-b08ed9646890", 
+    "name": "cicso-orangeswirl-microsoft", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

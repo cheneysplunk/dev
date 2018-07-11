@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny cloud best time time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "31b6ae29-1b79-402b-a2c7-129abfb12b5c", 
+    "name": "microsoft-minty-minty", 
+    "parent": "9e4e2ecd-5942-489c-8935-e9af5dad0df7", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

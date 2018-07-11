@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time microservice 1.8 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b291d095-55ef-4a80-993d-373258a58d10", 
+    "name": "aws-azure-azure", 
+    "parent": "ed4956e2-5ac7-4693-91de-7fa676b39714", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

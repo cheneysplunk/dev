@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum scale scale 3.4 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8a565b8d-9e4d-4f7b-b56d-8da69fc92d3d", 
+    "name": "azure-google-nightlight", 
+    "parent": "9b6c90d6-23ba-411d-98c1-c25dd1b7b267", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

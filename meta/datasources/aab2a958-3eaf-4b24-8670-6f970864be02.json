@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time cloud 4.2 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aab2a958-3eaf-4b24-8670-6f970864be02", 
+    "name": "google-azure-minty", 
+    "parent": "a4edad5f-51d1-4327-9217-4b1dea0b99f0", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

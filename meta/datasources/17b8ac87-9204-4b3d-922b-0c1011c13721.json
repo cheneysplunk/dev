@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid time best crypto scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "17b8ac87-9204-4b3d-922b-0c1011c13721", 
+    "name": "microsoft-splunk-aws", 
+    "parent": "2d916c84-8915-4ec2-bab8-946d388d305e", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

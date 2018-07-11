@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng crypto quantum 42 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "820d9002-606e-4ff5-9345-5ab4c7e57555", 
+    "name": "orangeswirl-google-microsoft", 
+    "parent": "df8b4088-a6b7-41fa-96a5-d61dbf74c170", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

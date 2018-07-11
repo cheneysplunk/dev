@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 great crypto quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "543f86b8-e6d0-4090-93ec-b16705f4604b", 
+    "name": "orangeswirl-cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "0581ad56-902d-4fb2-952f-34d8f2bcdf74", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

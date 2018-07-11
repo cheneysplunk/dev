@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8 4.2 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f64cd284-ba3e-49fc-9f0b-d7428b120af2", 
+    "name": "cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight", 
+    "parent": "d4d2fc2f-0c75-4bc7-b9d9-2443bc919a56", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

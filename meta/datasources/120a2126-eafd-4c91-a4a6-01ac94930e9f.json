@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum hybrid scale real big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "120a2126-eafd-4c91-a4a6-01ac94930e9f", 
+    "name": "cicso-nightlight-azure", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

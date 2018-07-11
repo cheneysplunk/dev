@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 great microservice 3.4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "040431e3-c8ab-438a-af0c-2216cc5f5860", 
+    "name": "aws-nightlight-azure", 
+    "parent": "23b5e211-c383-4858-9fdd-b4966f95431b", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5cfec407-f1ae-459b-9985-8018f21d6561", 
+    "name": "cicso-cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "dc61f9a5-c259-481a-81a0-5acc7dbb25cd", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

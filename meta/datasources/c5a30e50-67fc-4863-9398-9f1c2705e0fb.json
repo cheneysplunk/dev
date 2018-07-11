@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great sunny resistors resistors 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c5a30e50-67fc-4863-9398-9f1c2705e0fb", 
+    "name": "facebook-cicso-splunk", 
+    "parent": "ccee56e8-410a-46a7-ac36-e7b59ac3c128", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

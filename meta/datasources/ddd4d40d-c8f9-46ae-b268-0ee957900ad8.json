@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great real best 3.4 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ddd4d40d-c8f9-46ae-b268-0ee957900ad8", 
+    "name": "splunk-minty-cicso", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

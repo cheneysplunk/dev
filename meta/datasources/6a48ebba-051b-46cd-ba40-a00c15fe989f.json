@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great big-data cloud 3.4 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6a48ebba-051b-46cd-ba40-a00c15fe989f", 
+    "name": "google-aws-orangeswirl", 
+    "parent": "8011f293-d41e-4b9e-a629-5ae299db566c", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

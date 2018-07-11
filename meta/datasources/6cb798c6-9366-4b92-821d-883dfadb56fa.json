@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny quantum real big-data 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6cb798c6-9366-4b92-821d-883dfadb56fa", 
+    "name": "google-splunk-google", 
+    "parent": "3bc5e89e-3bc8-45dd-9769-2aa72495ad84", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

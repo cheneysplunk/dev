@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time time 42 microservice 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8cb6fa74-4db1-4cbf-a8e1-4a22aebb4b16", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "3f74688f-e06b-4984-ab55-43f20e5dcd18", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

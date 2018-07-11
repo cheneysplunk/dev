@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 best resistors hybrid quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d2439ea8-59ac-4250-a044-fe166038ce1a", 
+    "name": "aws-splunk-azure", 
+    "parent": "c5011133-1f4a-49ca-8770-fccb4b537e34", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

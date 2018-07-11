@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time ssc scale 3.4 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6e9ddcbe-0f7a-4a8d-b561-5ff8d9af69ac", 
+    "name": "microsoft-facebook-azure", 
+    "parent": "76948b56-e73c-4e9c-813d-360e45157621", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real real 3.4 great 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8fd5b175-df75-42d5-9acb-0971444c0b2c", 
+    "name": "cicso-orangeswirl-microsoft", 
+    "parent": "ccee56e8-410a-46a7-ac36-e7b59ac3c128", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum ssc big-data 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8b18fc14-1f79-4823-a7cb-4b8e349a9cd3", 
+    "name": "minty-facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "c95f2775-6d05-454d-a144-15ec2578211e", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

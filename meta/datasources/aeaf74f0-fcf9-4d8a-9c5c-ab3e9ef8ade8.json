@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 real-time 1.8 4.2 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aeaf74f0-fcf9-4d8a-9c5c-ab3e9ef8ade8", 
+    "name": "facebook-nightlight-aws", 
+    "parent": "1a745d80-6ddd-4f81-944d-d824804f12fc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

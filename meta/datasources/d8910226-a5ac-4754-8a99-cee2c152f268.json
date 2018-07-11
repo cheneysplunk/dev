@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 3.4 42 42 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d8910226-a5ac-4754-8a99-cee2c152f268", 
+    "name": "microsoft-nightlight-nightlight", 
+    "parent": "09991885-a8ab-4747-95c7-8dfefbfa3629", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

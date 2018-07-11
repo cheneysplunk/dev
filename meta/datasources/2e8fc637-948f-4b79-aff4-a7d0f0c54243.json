@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time real-time 4.2 resistors real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2e8fc637-948f-4b79-aff4-a7d0f0c54243", 
+    "name": "google-microsoft-nightlight", 
+    "parent": "9881c66a-3dd7-490f-81f0-42284cd47ad2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 real big-data hybrid crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3a41e55e-362f-4bcb-8437-24747d84fc6e", 
+    "name": "nightlight-orangeswirl-google", 
+    "parent": "0c488cc7-6af9-4a2d-85c6-f1f2c7c21d6a", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

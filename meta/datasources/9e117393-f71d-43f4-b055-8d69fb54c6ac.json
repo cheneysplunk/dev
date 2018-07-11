@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best 42 42 crypto time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9e117393-f71d-43f4-b055-8d69fb54c6ac", 
+    "name": "microsoft-orangeswirl-splunk", 
+    "parent": "4e89a3a5-d266-42a6-a2f1-2e8c79e2a290", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

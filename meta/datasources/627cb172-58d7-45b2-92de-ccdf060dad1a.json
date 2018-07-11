@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud runinng time big-data 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "627cb172-58d7-45b2-92de-ccdf060dad1a", 
+    "name": "facebook-microsoft-google", 
+    "parent": "b682bead-5856-4c5b-8f29-36e65a277928", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

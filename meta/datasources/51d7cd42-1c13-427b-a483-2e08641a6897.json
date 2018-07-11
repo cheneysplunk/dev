@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc time crypto runinng real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "51d7cd42-1c13-427b-a483-2e08641a6897", 
+    "name": "splunk-microsoft-aws", 
+    "parent": "ee2ed2a9-627b-4462-88ac-bb7682753121", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

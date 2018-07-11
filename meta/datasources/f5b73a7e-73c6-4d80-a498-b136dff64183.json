@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale hybrid scale 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f5b73a7e-73c6-4d80-a498-b136dff64183", 
+    "name": "splunk-orangeswirl-microsoft", 
+    "parent": "487f39d8-b820-48f2-a23e-63cbbd934664", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

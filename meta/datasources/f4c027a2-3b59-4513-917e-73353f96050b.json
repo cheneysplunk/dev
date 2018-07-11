@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 ssc \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 runinng best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f4c027a2-3b59-4513-917e-73353f96050b", 
+    "name": "microsoft-splunk-minty", 
+    "parent": "c2eca371-59de-4322-b2a8-2c718af4ffc2", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

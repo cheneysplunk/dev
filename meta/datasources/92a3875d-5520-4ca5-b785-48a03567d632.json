@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 ssc real-time best hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "92a3875d-5520-4ca5-b785-48a03567d632", 
+    "name": "orangeswirl-minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "339119d2-519a-4c44-aa0b-c54442e48679", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

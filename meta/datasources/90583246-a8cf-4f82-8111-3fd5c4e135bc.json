@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great time 3.4 real 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "90583246-a8cf-4f82-8111-3fd5c4e135bc", 
+    "name": "google-nightlight-google", 
+    "parent": "cf2c919e-576d-4eed-8340-963314bb6311", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

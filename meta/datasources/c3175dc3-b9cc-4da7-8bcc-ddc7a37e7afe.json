@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data microservice microservice real big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c3175dc3-b9cc-4da7-8bcc-ddc7a37e7afe", 
+    "name": "nightlight-aws-orangeswirl", 
+    "parent": "2a9ef710-7bd3-4081-8652-109298c2d6d9", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

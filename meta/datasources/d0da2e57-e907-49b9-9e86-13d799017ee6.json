@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best 42 42 ssc real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d0da2e57-e907-49b9-9e86-13d799017ee6", 
+    "name": "aws-minty-microsoft", 
+    "parent": "71130160-b292-4eaa-b840-090381593820", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

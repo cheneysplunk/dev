@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice microservice crypto cloud best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0791f4de-7d9a-4a79-80d2-6a1900b20458", 
+    "name": "nightlight-azure-aws", 
+    "parent": "ac63e809-0776-4101-85b4-66a9279f102b", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc hybrid crypto best ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bf407f2f-089d-44ca-b1fc-3beccc3a0432", 
+    "name": "nightlight-nightlight-microsoft", 
+    "parent": "bba9ccad-c73e-4ca9-9f14-5acd4109b4e3", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

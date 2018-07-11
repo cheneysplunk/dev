@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice quantum microservice 3.4 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9867c5a2-322f-41a2-85a8-a85ed3c6ef8f", 
+    "name": "nightlight-orangeswirl-minty", 
+    "parent": "49cc1d7a-6afc-471f-a446-638bcf9bcb97", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

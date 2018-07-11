@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8f70ca2c-49cc-4b81-a492-7dace8de1329", 
+    "name": "minty-nightlight-facebook", 
+    "parent": "8011f293-d41e-4b9e-a629-5ae299db566c", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng resistors 42 microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6a3e1d12-e100-4575-af79-c4e18dd34b79", 
+    "name": "splunk-google-orangeswirl", 
+    "parent": "16be2b22-46c0-491d-bc3d-d0a04871a82c", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

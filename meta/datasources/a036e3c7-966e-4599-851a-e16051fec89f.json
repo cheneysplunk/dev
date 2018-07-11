@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum time hybrid quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a036e3c7-966e-4599-851a-e16051fec89f", 
+    "name": "facebook-cicso-splunk", 
+    "parent": "4fc05d7a-e769-4245-968b-d50cbf2b4ff8", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

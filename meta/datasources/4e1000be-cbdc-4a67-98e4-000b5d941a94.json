@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 4.2 hybrid real resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4e1000be-cbdc-4a67-98e4-000b5d941a94", 
+    "name": "nightlight-aws-aws", 
+    "parent": "b66b48a1-a276-4342-8e17-1f49b265dbcd", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

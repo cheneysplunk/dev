@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid ssc 3.4 42 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1bdc45b5-79d0-4155-b98d-2411b5f245e5", 
+    "name": "minty-google-google", 
+    "parent": "5f2ab3e2-d79b-41c8-ae38-36f361e29ca6", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best ssc 4.2 crypto hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "950df086-df55-406f-868c-739b1ae94d1d", 
+    "name": "azure-minty-microsoft", 
+    "parent": "8e5c8027-b743-4923-802a-71b84ed39c7b", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

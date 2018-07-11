@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 4.2 microservice 1.8 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "74de4792-1c29-4dda-94c2-6fc0bd9c4be0", 
+    "name": "microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight", 
+    "parent": "a1f0c4b2-dfee-433c-aae6-9e1121271af5", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 ssc \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b5d932de-dbcd-45eb-ac22-420170264df5", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight", 
+    "parent": "98e3b158-195a-4e53-86a3-29201d581755", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

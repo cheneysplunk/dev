@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 sunny crypto time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1de600e7-55cf-4d95-b986-95463c092e20", 
+    "name": "microsoft-aws-azure", 
+    "parent": "1492cc6e-b156-4ac9-b64e-0bc00e98bd1e", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

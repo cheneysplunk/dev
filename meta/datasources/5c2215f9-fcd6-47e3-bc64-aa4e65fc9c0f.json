@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 ssc quantum ssc resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5c2215f9-fcd6-47e3-bc64-aa4e65fc9c0f", 
+    "name": "aws-google-google", 
+    "parent": "d4019860-9d03-468d-9bc7-9da07c410662", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data resistors great sunny hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "688d27d1-adf8-46a3-922d-255f6f4e69a1", 
+    "name": "minty-azure-cicso", 
+    "parent": "73106035-f207-458f-8d02-fbf8379aa150", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

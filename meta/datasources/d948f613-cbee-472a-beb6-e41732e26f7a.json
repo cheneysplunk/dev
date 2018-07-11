@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 hybrid best quantum 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d948f613-cbee-472a-beb6-e41732e26f7a", 
+    "name": "minty-azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "0581ad56-902d-4fb2-952f-34d8f2bcdf74", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

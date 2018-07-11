@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 1.8 hybrid 1.8 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8c34fb5b-fee9-47fd-a7f6-434e728d3376", 
+    "name": "cicso-facebook-aws", 
+    "parent": "09991885-a8ab-4747-95c7-8dfefbfa3629", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

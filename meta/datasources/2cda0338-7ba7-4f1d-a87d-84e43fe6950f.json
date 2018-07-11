@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real best real-time sunny 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2cda0338-7ba7-4f1d-a87d-84e43fe6950f", 
+    "name": "minty-azure-facebook", 
+    "parent": "e685dc80-dfd1-443f-b69a-f082c96bcb9e", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 cloud sunny sunny 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "75ef4990-6cf1-4762-a125-3539c923b577", 
+    "name": "splunk-google-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "c5011133-1f4a-49ca-8770-fccb4b537e34", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

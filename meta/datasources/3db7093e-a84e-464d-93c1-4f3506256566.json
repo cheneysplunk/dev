@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum quantum crypto runinng ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3db7093e-a84e-464d-93c1-4f3506256566", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-orangeswirl-azure", 
+    "parent": "c73298c1-14bb-4491-a2fd-ba320acf094e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

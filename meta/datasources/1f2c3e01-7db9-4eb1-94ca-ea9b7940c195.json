@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice quantum hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1f2c3e01-7db9-4eb1-94ca-ea9b7940c195", 
+    "name": "google-microsoft-facebook", 
+    "parent": "073a0c88-a953-4ccc-ab5d-1c553cb01517", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

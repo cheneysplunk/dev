@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice cloud quantum quantum scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ad9099f0-4705-4ab1-bb15-b9b61851a300", 
+    "name": "nightlight-cicso-azure", 
+    "parent": "66747e6a-dc5e-42d7-b7f4-f437f290e8ec", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

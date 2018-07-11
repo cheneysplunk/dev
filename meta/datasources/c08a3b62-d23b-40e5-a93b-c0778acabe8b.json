@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc sunny quantum real resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c08a3b62-d23b-40e5-a93b-c0778acabe8b", 
+    "name": "minty-microsoft-splunk", 
+    "parent": "68e69a1c-8c1e-4ee1-ac0f-1601e5f1fa56", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

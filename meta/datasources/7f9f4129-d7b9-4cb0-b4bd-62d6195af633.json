@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data ssc 1.8 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7f9f4129-d7b9-4cb0-b4bd-62d6195af633", 
+    "name": "aws-orangeswirl-cicso", 
+    "parent": "f211b5a1-c1c0-4cc1-be70-261defb1e2c9", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

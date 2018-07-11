@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data real-time scale cloud sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b5efdf88-55c1-47e9-b930-fc64ca629e63", 
+    "name": "orangeswirl-azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "68fbf65e-1517-4b23-b2d3-09f1bf9db5a6", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

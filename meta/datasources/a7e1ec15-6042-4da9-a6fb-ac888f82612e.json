@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng ssc runinng real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a7e1ec15-6042-4da9-a6fb-ac888f82612e", 
+    "name": "splunk-minty-orangeswirl", 
+    "parent": "1be46305-9170-44d6-ab76-89c5e4ce82a9", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

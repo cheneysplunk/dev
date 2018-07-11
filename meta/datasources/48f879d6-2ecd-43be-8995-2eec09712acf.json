@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8 best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "48f879d6-2ecd-43be-8995-2eec09712acf", 
+    "name": "splunk-azure-facebook", 
+    "parent": "ecdfc573-b3ef-4db0-90f1-92a60c1cef28", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

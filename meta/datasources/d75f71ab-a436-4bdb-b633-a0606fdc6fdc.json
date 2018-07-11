@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 4.2 42 quantum best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d75f71ab-a436-4bdb-b633-a0606fdc6fdc", 
+    "name": "orangeswirl-minty-nightlight", 
+    "parent": "54ae00c6-c448-4f01-aaca-0ebb95ffc826", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

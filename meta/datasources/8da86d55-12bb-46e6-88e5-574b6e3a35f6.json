@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum big-data time 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8da86d55-12bb-46e6-88e5-574b6e3a35f6", 
+    "name": "microsoft-aws-orangeswirl", 
+    "parent": "d756fcd3-8aa1-407d-9070-4f35a3a12c7d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

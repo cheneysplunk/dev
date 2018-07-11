@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 3.4 4.2 big-data big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "057cf5f7-44a2-4275-a1ec-b833a1f05e64", 
+    "name": "aws-microsoft-nightlight", 
+    "parent": "184bdb0f-ca80-4c7d-adfa-49cfd5aa0535", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

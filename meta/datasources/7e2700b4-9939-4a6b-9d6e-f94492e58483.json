@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale scale microservice real-time 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7e2700b4-9939-4a6b-9d6e-f94492e58483", 
+    "name": "azure-aws-microsoft", 
+    "parent": "0581ad56-902d-4fb2-952f-34d8f2bcdf74", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

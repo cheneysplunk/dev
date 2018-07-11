@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid crypto sunny microservice resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "524891c1-5211-48fa-9c75-0f8bc810f13f", 
+    "name": "nightlight-nightlight-azure", 
+    "parent": "766d5cf6-709a-4712-92ce-9a1cf1c5ee6c", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

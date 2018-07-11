@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 microservice time quantum runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "04b65484-a8d2-4f0f-8804-43d688fd9270", 
+    "name": "minty-azure-aws", 
+    "parent": "ac947c21-45cc-4263-9a8e-32ea17951bbb", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

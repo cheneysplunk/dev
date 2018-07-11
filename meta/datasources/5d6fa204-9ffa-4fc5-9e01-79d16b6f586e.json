@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng sunny hybrid best great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5d6fa204-9ffa-4fc5-9e01-79d16b6f586e", 
+    "name": "google-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "4604a40d-c1f6-4c03-8a10-10843439fa03", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

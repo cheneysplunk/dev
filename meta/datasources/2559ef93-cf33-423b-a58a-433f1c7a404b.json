@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best real scale quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2559ef93-cf33-423b-a58a-433f1c7a404b", 
+    "name": "azure-orangeswirl-azure", 
+    "parent": "68e69a1c-8c1e-4ee1-ac0f-1601e5f1fa56", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

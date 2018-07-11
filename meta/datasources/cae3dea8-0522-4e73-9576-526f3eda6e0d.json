@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 real crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cae3dea8-0522-4e73-9576-526f3eda6e0d", 
+    "name": "splunk-minty-nightlight", 
+    "parent": "c73298c1-14bb-4491-a2fd-ba320acf094e", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

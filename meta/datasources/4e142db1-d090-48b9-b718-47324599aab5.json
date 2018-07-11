@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng cloud time scale 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4e142db1-d090-48b9-b718-47324599aab5", 
+    "name": "cicso-facebook-nightlight", 
+    "parent": "21c4eb88-c231-4eb9-bd6a-46af999fb286", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

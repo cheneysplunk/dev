@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 time runinng 1.8 hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "02d00235-eb3a-48c7-90ff-321d3d3f9e7a", 
+    "name": "minty-aws-minty", 
+    "parent": "f211b5a1-c1c0-4cc1-be70-261defb1e2c9", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 resistors real-time 3.4 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "835e743d-0a41-47e4-9215-ae45692ec1a3", 
+    "name": "splunk-google-facebook", 
+    "parent": "ac63e809-0776-4101-85b4-66a9279f102b", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

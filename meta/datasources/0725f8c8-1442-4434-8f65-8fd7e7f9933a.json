@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice runinng cloud crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0725f8c8-1442-4434-8f65-8fd7e7f9933a", 
+    "name": "microsoft-microsoft-minty", 
+    "parent": "94eca0ba-c93f-47e4-b10c-3e52309e0971", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

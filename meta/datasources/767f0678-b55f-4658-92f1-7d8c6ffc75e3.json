@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real-time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "767f0678-b55f-4658-92f1-7d8c6ffc75e3", 
+    "name": "nightlight-nightlight-minty", 
+    "parent": "183a7090-0cec-402b-b44c-1eb2043ad0b0", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale quantum ssc sunny sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "33d6bc8e-96b1-4351-8c1a-ea8c0ce05d63", 
+    "name": "azure-facebook-aws", 
+    "parent": "ef4129dd-1a50-4dcd-a60d-44db360d2be1", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

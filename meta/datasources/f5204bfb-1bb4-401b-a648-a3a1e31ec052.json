@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto real best ssc hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f5204bfb-1bb4-401b-a648-a3a1e31ec052", 
+    "name": "aws-minty-google", 
+    "parent": "7ac6e248-d0c2-4add-a661-384d37e1e4c8", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

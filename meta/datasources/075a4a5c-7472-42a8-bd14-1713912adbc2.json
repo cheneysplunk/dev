@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud resistors real quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "075a4a5c-7472-42a8-bd14-1713912adbc2", 
+    "name": "aws-cicso-aws", 
+    "parent": "8ca6d59c-f996-4bf7-bff2-0b495baeb561", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors resistors scale scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a3b970d4-d9a0-43bd-9ec9-a66de71a0d12", 
+    "name": "azure-azure-splunk", 
+    "parent": "0d89f85a-3ad0-4476-826c-fa41543c3888", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

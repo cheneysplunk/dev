@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 1.8 real-time great sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5bcea402-3a89-4aa2-8ca8-bd627d7bc116", 
+    "name": "minty-facebook-cicso", 
+    "parent": "50b00453-5a9e-4edd-b953-56ee9ec9bbf0", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

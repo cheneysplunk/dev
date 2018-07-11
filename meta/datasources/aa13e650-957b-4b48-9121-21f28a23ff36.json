@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum great sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aa13e650-957b-4b48-9121-21f28a23ff36", 
+    "name": "orangeswirl-nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "e66800f6-6e4f-4c8a-a486-7d8434d0f70d", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

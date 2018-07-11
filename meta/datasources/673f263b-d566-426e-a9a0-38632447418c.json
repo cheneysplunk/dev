@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny resistors sunny real microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "673f263b-d566-426e-a9a0-38632447418c", 
+    "name": "facebook-cicso-microsoft", 
+    "parent": "96d96e76-5255-49e3-9367-59ba2cdda4a5", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

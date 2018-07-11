@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data crypto cloud crypto crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3bd477cb-b081-42e7-8f7f-e32d12fd1013", 
+    "name": "aws-nightlight-google", 
+    "parent": "a9edb5de-589d-4c71-8a29-dbe3608f550b", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

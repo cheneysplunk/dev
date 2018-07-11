@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 4.2 quantum cloud microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8e143da6-4200-49d4-8935-86217f83fe11", 
+    "name": "orangeswirl-aws-azure", 
+    "parent": "f04a7836-7d3c-4b0b-b2b3-fa4a861c4a5e", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

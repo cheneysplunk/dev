@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors great runinng hybrid crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f7090419-1c56-439a-8bda-9ed5f42d6728", 
+    "name": "orangeswirl-google-microsoft", 
+    "parent": "de620fbf-283d-47f6-951a-ab74ae1dd23c", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

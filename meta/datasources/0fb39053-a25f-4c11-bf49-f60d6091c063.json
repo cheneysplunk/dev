@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time sunny big-data best 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0fb39053-a25f-4c11-bf49-f60d6091c063", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-microsoft-facebook", 
+    "parent": "f0121e9a-644a-4736-88db-af9669fe08ff", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

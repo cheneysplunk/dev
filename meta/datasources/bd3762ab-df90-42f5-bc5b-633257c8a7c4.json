@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice 42 sunny hybrid sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bd3762ab-df90-42f5-bc5b-633257c8a7c4", 
+    "name": "nightlight-facebook-splunk", 
+    "parent": "5f814fda-22eb-4fea-991c-05c836752f04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

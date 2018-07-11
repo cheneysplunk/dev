@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud great 42 runinng real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "de6c807f-5789-4126-9526-e72ea9bf2039", 
+    "name": "cicso-google-azure", 
+    "parent": "d756fcd3-8aa1-407d-9070-4f35a3a12c7d", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

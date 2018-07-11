@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 1.8 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d7413510-bfc9-472b-94b4-bc2f3b5daa17", 
+    "name": "azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "70ab33fa-b14c-424e-8b21-9d9e55a7f552", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

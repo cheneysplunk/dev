@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum runinng hybrid 42 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a63d9407-4726-4d1c-8639-445f1213da01", 
+    "name": "nightlight-orangeswirl-microsoft", 
+    "parent": "c2eca371-59de-4322-b2a8-2c718af4ffc2", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

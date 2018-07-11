@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 3.4 cloud runinng best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "894f4027-e28d-4f0e-b240-9d03a09d6827", 
+    "name": "nightlight-microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "fa00a835-3cc1-4d4c-891a-88a35e2af31f", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

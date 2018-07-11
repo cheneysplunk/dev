@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 microservice runinng 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c6d03fcb-fb9f-4bc7-8f01-185f65bf7491", 
+    "name": "splunk-orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "8450959b-0b10-47dd-8503-450834aca244", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

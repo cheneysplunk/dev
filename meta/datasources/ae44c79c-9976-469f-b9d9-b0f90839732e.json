@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny best runinng best resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ae44c79c-9976-469f-b9d9-b0f90839732e", 
+    "name": "nightlight-microsoft-minty", 
+    "parent": "df8b4088-a6b7-41fa-96a5-d61dbf74c170", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

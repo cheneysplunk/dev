@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best hybrid 4.2 crypto runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "462f1e0d-129e-4540-a62b-2f2975a4de5a", 
+    "name": "cicso-microsoft-azure", 
+    "parent": "94e609b5-b3ed-48ca-8347-9f7c84d15666", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

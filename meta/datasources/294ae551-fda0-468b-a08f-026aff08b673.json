@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum great best runinng 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "294ae551-fda0-468b-a08f-026aff08b673", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-orangeswirl", 
+    "parent": "71c5244f-e85a-480c-85a1-797065d0e9e3", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

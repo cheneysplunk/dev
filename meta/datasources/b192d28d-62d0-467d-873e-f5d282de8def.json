@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc resistors time resistors runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b192d28d-62d0-467d-873e-f5d282de8def", 
+    "name": "minty-google-aws", 
+    "parent": "5e2bc66d-4cda-49ed-af1b-995c9814cded", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

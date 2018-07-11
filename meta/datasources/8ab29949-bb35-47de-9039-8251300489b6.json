@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 4.2 big-data ssc 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8ab29949-bb35-47de-9039-8251300489b6", 
+    "name": "facebook-microsoft-microsoft", 
+    "parent": "2a252191-991d-4c75-bcf6-52c26044f4e1", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

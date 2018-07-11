@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice crypto resistors microservice microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "45938d3c-0c52-4da3-84ca-38f79768a911", 
+    "name": "microsoft-splunk-orangeswirl", 
+    "parent": "23b5e211-c383-4858-9fdd-b4966f95431b", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

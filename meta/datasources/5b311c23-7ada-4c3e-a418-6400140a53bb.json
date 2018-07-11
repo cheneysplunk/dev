@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng resistors time 4.2 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5b311c23-7ada-4c3e-a418-6400140a53bb", 
+    "name": "splunk-microsoft-splunk", 
+    "parent": "1be46305-9170-44d6-ab76-89c5e4ce82a9", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

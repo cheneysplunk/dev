@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng 42 runinng 3.4 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f4387cf8-e284-4544-a5c3-4b3a37d8e91f", 
+    "name": "orangeswirl-facebook-splunk", 
+    "parent": "a473794e-519a-435b-916f-4444238d107c", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

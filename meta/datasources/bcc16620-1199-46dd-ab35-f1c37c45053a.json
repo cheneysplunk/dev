@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud ssc real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bcc16620-1199-46dd-ab35-f1c37c45053a", 
+    "name": "google-nightlight-orangeswirl", 
+    "parent": "795779c3-d045-4510-9757-793ab85d25d8", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

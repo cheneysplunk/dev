@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data real-time real crypto big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "325cd1d6-77d3-4419-b25e-621ff8a64012", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure-azure", 
+    "parent": "94eca0ba-c93f-47e4-b10c-3e52309e0971", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

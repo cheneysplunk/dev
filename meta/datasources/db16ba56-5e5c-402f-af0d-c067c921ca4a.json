@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 cloud hybrid scale resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "db16ba56-5e5c-402f-af0d-c067c921ca4a", 
+    "name": "microsoft-microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "8450959b-0b10-47dd-8503-450834aca244", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

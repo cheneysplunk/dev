@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud time 1.8 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f8ef0d75-bad8-4f1b-be42-59d407b96b66", 
+    "name": "azure-microsoft-minty", 
+    "parent": "5e2bc66d-4cda-49ed-af1b-995c9814cded", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

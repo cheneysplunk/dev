@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2 time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7720f8f3-944f-4dc7-9d28-d6dcdc1e23d7", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure-cicso", 
+    "parent": "64c3abfc-ed56-461f-9332-3ef26b3d1670", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

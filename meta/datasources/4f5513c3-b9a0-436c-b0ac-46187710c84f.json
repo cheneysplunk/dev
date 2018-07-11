@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 hybrid cloud crypto crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4f5513c3-b9a0-436c-b0ac-46187710c84f", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "cf2c919e-576d-4eed-8340-963314bb6311", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

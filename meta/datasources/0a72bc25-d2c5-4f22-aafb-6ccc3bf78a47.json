@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best hybrid runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0a72bc25-d2c5-4f22-aafb-6ccc3bf78a47", 
+    "name": "azure-splunk-aws", 
+    "parent": "71c5244f-e85a-480c-85a1-797065d0e9e3", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 crypto hybrid best sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3486048d-ce20-4bc3-927e-ba75b5b158f0", 
+    "name": "facebook-google-google", 
+    "parent": "a929132a-dc4c-448b-9edd-1eb8e8497108", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

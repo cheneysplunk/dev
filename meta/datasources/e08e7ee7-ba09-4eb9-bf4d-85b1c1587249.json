@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum time great runinng scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e08e7ee7-ba09-4eb9-bf4d-85b1c1587249", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google-microsoft", 
+    "parent": "d4a38cc4-1aa6-4fff-b17d-1b0ec6d41a43", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

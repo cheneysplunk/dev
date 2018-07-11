@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng crypto cloud great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b349cc9a-bd58-42bd-80c8-fd3336626d8d", 
+    "name": "azure-minty-orangeswirl", 
+    "parent": "4e89a3a5-d266-42a6-a2f1-2e8c79e2a290", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

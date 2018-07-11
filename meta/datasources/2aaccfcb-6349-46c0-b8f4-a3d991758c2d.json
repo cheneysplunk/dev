@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time resistors cloud ssc great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2aaccfcb-6349-46c0-b8f4-a3d991758c2d", 
+    "name": "orangeswirl-minty-nightlight", 
+    "parent": "d4a38cc4-1aa6-4fff-b17d-1b0ec6d41a43", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

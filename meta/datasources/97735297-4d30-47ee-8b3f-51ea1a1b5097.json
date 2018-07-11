@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 microservice cloud real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "97735297-4d30-47ee-8b3f-51ea1a1b5097", 
+    "name": "facebook-minty-aws", 
+    "parent": "ce20b06b-be02-416d-91ee-465c6e85d7c2", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

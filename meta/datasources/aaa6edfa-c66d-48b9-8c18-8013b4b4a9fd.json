@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data scale 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aaa6edfa-c66d-48b9-8c18-8013b4b4a9fd", 
+    "name": "microsoft-azure-azure", 
+    "parent": "bba9ccad-c73e-4ca9-9f14-5acd4109b4e3", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

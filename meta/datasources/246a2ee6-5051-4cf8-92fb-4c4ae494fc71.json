@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc scale crypto 42 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "246a2ee6-5051-4cf8-92fb-4c4ae494fc71", 
+    "name": "google-aws-azure", 
+    "parent": "1b75f4ee-8ce1-430e-b79b-9455289729f3", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best 42 hybrid great runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "39e94be0-8e10-4c7d-a97e-661b024e3309", 
+    "name": "facebook-facebook-minty", 
+    "parent": "73106035-f207-458f-8d02-fbf8379aa150", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

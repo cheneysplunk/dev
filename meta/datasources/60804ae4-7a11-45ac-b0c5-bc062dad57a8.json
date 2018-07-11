@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors cloud 3.4 4.2 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "60804ae4-7a11-45ac-b0c5-bc062dad57a8", 
+    "name": "orangeswirl-microsoft-aws", 
+    "parent": "072d0858-cbf8-49c0-8e79-10af54d2d042", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

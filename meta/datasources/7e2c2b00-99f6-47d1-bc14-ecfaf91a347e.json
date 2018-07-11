@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto best 1.8 resistors runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7e2c2b00-99f6-47d1-bc14-ecfaf91a347e", 
+    "name": "cicso-orangeswirl-facebook", 
+    "parent": "184f40fc-242e-4a9e-a4b0-14fa955d76b8", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum best cloud great cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c7b3f4dc-8a26-42e3-be15-0f41c49b17ed", 
+    "name": "orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "a4edad5f-51d1-4327-9217-4b1dea0b99f0", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great quantum 4.2 ssc best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "05ff2b8a-948f-4aa2-9965-f7ac820ee613", 
+    "name": "splunk-orangeswirl-minty", 
+    "parent": "198e6b47-5d6c-4cb9-b570-2687ec3df973", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

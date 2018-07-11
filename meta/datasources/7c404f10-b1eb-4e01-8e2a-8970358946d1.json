@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale scale real-time crypto hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7c404f10-b1eb-4e01-8e2a-8970358946d1", 
+    "name": "minty-microsoft-azure", 
+    "parent": "aa760a6e-548b-4910-86b9-a633897c72da", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

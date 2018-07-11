@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time runinng hybrid great hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f4a54d40-cfd8-4961-97a2-94c10f5b6103", 
+    "name": "aws-splunk-nightlight", 
+    "parent": "07fbafcd-97a1-47e1-9590-efefe9923305", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

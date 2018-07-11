@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0d057659-480e-460e-b4be-f9f5d9d77612", 
+    "name": "google-microsoft-azure", 
+    "parent": "dc61f9a5-c259-481a-81a0-5acc7dbb25cd", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

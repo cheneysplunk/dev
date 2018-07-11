@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale time real best quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "746346a2-8a26-4aa0-afcc-66c5f5f5f91f", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "49cc1d7a-6afc-471f-a446-638bcf9bcb97", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

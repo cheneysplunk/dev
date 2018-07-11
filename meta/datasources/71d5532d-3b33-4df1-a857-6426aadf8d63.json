@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto real best microservice ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "71d5532d-3b33-4df1-a857-6426aadf8d63", 
+    "name": "microsoft-nightlight-orangeswirl", 
+    "parent": "cd5add8d-ba7f-4b37-8419-47a0b9fac628", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 microservice big-data resistors 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c5a399d9-1320-4ab3-b974-d4b9dd9bdce6", 
+    "name": "azure-cicso-orangeswirl", 
+    "parent": "b682bead-5856-4c5b-8f29-36e65a277928", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 hybrid \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8bca4587-6606-4da1-942a-ea33f84e6a41", 
+    "name": "nightlight-orangeswirl-nightlight", 
+    "parent": "9cac60fe-8a72-47e3-9a2d-9c46ed76fe13", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

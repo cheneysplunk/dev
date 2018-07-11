@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 scale great real hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "642b061d-3c3a-4732-bee7-fd07fe53d61d", 
+    "name": "minty-splunk-nightlight", 
+    "parent": "c874f2cc-dbb1-4e55-9932-004b0f85c620", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

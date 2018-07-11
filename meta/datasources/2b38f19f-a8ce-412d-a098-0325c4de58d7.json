@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale great time big-data best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2b38f19f-a8ce-412d-a098-0325c4de58d7", 
+    "name": "minty-nightlight-google", 
+    "parent": "184bdb0f-ca80-4c7d-adfa-49cfd5aa0535", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

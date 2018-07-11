@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors 42 quantum quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "06ea548b-6e54-4d65-ac4a-5fe8a06827ff", 
+    "name": "azure-minty-orangeswirl", 
+    "parent": "8705d65c-f0d3-4a1f-b1e6-11aa3cbaa6b2", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

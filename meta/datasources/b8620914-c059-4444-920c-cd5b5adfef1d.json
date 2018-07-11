@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data real 1.8 resistors real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b8620914-c059-4444-920c-cd5b5adfef1d", 
+    "name": "minty-azure-azure", 
+    "parent": "b66b48a1-a276-4342-8e17-1f49b265dbcd", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

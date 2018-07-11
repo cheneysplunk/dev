@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real-time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 3.4 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "91d6b9ca-34ab-4a02-ae9b-cb24c139b906", 
+    "name": "nightlight-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "c54fa970-1f45-491d-aa71-8b8aad45921c", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

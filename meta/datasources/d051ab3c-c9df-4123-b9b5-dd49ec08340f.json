@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data hybrid \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d051ab3c-c9df-4123-b9b5-dd49ec08340f", 
+    "name": "google-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "94e609b5-b3ed-48ca-8347-9f7c84d15666", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best cloud 1.8 crypto runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0a07c3e8-c3c5-4487-8c39-c5dad92c65c2", 
+    "name": "minty-nightlight-microsoft", 
+    "parent": "8450959b-0b10-47dd-8503-450834aca244", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 42 ssc cloud real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "642c8934-58c9-4f47-96a8-b25e81a4fab6", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "7153f324-1de7-40f7-b484-cd68d66001f8", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

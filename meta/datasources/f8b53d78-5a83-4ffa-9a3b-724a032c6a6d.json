@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum cloud real 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f8b53d78-5a83-4ffa-9a3b-724a032c6a6d", 
+    "name": "google-splunk-cicso", 
+    "parent": "5f814fda-22eb-4fea-991c-05c836752f04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

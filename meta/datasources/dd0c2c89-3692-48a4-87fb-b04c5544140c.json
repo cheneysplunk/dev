@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors best 3.4 great great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dd0c2c89-3692-48a4-87fb-b04c5544140c", 
+    "name": "cicso-orangeswirl-cicso", 
+    "parent": "b35e0a38-2026-43fc-b5ff-83d1e0b9b196", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 3.4 time real cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f53ef6db-8d49-424c-9869-6c8e316bbfbd", 
+    "name": "splunk-facebook-minty", 
+    "parent": "1abd0b39-42a5-40fc-938e-07176c0aa9ae", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

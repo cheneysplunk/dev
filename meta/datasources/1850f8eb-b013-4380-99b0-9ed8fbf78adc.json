@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors sunny runinng quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1850f8eb-b013-4380-99b0-9ed8fbf78adc", 
+    "name": "nightlight-facebook-cicso", 
+    "parent": "f5c2a9cf-3704-4df1-ab1f-8f2d7202c1d6", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ac1a3ae9-a81a-4923-8081-ca0ba5004d35", 
+    "name": "nightlight-azure-orangeswirl", 
+    "parent": "5d9773d8-664d-4dc0-8157-a28b3c60672b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

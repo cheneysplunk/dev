@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time scale hybrid runinng 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bf77e5d2-52d8-46b1-9c62-8ebdb4576dda", 
+    "name": "splunk-cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "dbe0f17d-353c-4eef-921b-8d450ba53b90", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

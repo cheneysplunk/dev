@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng cloud cloud 3.4 runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5e1567a2-ab61-490e-9ea8-a53c05eace69", 
+    "name": "azure-azure-splunk", 
+    "parent": "cd5add8d-ba7f-4b37-8419-47a0b9fac628", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

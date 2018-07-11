@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto resistors 3.4 runinng real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3e716af9-3b21-4546-9846-7d918dcefc07", 
+    "name": "nightlight-nightlight-microsoft", 
+    "parent": "e839f4fa-7fe0-4a98-b718-5aa29448d69d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

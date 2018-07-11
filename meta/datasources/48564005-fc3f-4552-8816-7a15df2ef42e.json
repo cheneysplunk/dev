@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors time cloud great real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "48564005-fc3f-4552-8816-7a15df2ef42e", 
+    "name": "google-splunk-google", 
+    "parent": "f6ec488d-e3f9-449e-aec7-d4249833044e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

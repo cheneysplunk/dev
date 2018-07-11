@@ -1,0 +1,174 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "0d057659-480e-460e-b4be-f9f5d9d77612"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 4.2 resistors scale scale", 
+    "id": "224239e0-f0ba-4400-b64f-efa4ecddd2e5", 
+    "instruction": {
+        "overview": {
+            "config": [
+                {
+                    "#document_ref": "singleInstance", 
+                    "topologies": [
+                        "SingleInstance"
+                    ]
+                }, 
+                {
+                    "#document_ref": "distributed", 
+                    "topologies": [
+                        "SHC", 
+                        "INC"
+                    ]
+                }, 
+                {
+                    "#document_ref": "distributed", 
+                    "topologies": [
+                        "SHC", 
+                        "INX"
+                    ]
+                }, 
+                {
+                    "#document_ref": "distributed", 
+                    "topologies": [
+                        "SH", 
+                        "INX"
+                    ]
+                }, 
+                {
+                    "#document_ref": "cloud", 
+                    "topologies": [
+                        "Cloud"
+                    ]
+                }
+            ], 
+            "deployment": [
+                {
+                    "desc": "A single instance that combines indexing and search management functions.", 
+                    "name": "Single Instance", 
+                    "topology": "SingleInstance"
+                }, 
+                {
+                    "desc": "1. Small enterprise. One search head with two or three indexers.\n2. Medium enterprise. A small search head cluster, with several indexers.\n3. Large enterprise. A large search head cluster, with large numbers of indexers.", 
+                    "more_options": [
+                        {
+                            "name": "Search Head", 
+                            "options": [
+                                {
+                                    "name": "Single Search Head", 
+                                    "topology": "SH"
+                                }, 
+                                {
+                                    "name": "Search Head Cluster", 
+                                    "topology": "SHC"
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Indexer", 
+                            "options": [
+                                {
+                                    "name": "Multiple Indexers", 
+                                    "topology": "INX"
+                                }, 
+                                {
+                                    "name": "Indexers Cluster", 
+                                    "topology": "INC"
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "TAs", 
+                            "options": [
+                                {
+                                    "name": "hello", 
+                                    "topology": "INX"
+                                }, 
+                                {
+                                    "name": "name1", 
+                                    "topology": "name1"
+                                }, 
+                                {
+                                    "name": "name2", 
+                                    "topology": "name2"
+                                }, 
+                                {
+                                    "name": "name3", 
+                                    "topology": "name3"
+                                }, 
+                                {
+                                    "name": "name4", 
+                                    "topology": "name4"
+                                }, 
+                                {
+                                    "name": "name5", 
+                                    "topology": "name5"
+                                }, 
+                                {
+                                    "name": "name6", 
+                                    "topology": "name6"
+                                }, 
+                                {
+                                    "name": "name5", 
+                                    "topology": "name5"
+                                }
+                            ]
+                        }
+                    ], 
+                    "name": "Distributed"
+                }, 
+                {
+                    "desc": "You can get data into your Splunk Cloud deployment as follows:\n1. Forward data from data sources\n2. Install Splunk apps and add-ons\n3. Send data using HTTP protocol", 
+                    "name": "Cloud", 
+                    "topology": "Cloud"
+                }
+            ], 
+            "document_ref": {
+                "cloud": {
+                    "_name": "Splunk Cloud Configurations", 
+                    "diagram": "images/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview", 
+                    "steps": [
+                        "Cloud Step 1", 
+                        "Cloud Step 2", 
+                        "Cloud Step 3", 
+                        "Cloud Step 4", 
+                        "Cloud Step 5", 
+                        "Cloud Step 6", 
+                        "Cloud Step 7", 
+                        "\u00c7, \u00e9, \u00e2, \u00ea, \u00ee, \u00f4, \u00fb, \u00e0, \u00e8, \u00f9, \u00eb, \u00ef, \u00fc\n\u3131, \u3134, \u3137, \u3139, \u3141, \u3142, \u3145, \u3147\nIch h\u00e4tte gern, Es gef\u00e4llt mir nicht.\nL'orologio segna otto minuti alle dodici.", 
+                        "\u6b63\u9ad4\u5b57/\u7e41\u9ad4\u5b57, \u6e1b\u7b46, \u7adc, \u9f99, \u9f8d\n", 
+                        "\u5bfc\u5b57\u793e, \u7b80\u5316\u5b57\u603b\u8868\n", 
+                        "\u3042\u30a2\u304b\u30ab\n"
+                    ]
+                }, 
+                "distributed": {
+                    "_name": "Splunk Distributed Configurations", 
+                    "diagram": "images/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview", 
+                    "steps": [
+                        "Install AWS Add-on", 
+                        "Create dead letter queue", 
+                        "Distributed Step 3", 
+                        "Distributed Step 4", 
+                        "Distributed Step 5", 
+                        "Distributed Step 6"
+                    ]
+                }, 
+                "singleInstance": {
+                    "_name": "Splunk Single Configurations", 
+                    "diagram": "images/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields", 
+                    "steps": [
+                        "create CloudTrail", 
+                        "Configure AWS account", 
+                        "Install AWS Add-on", 
+                        "Create dead letter queue", 
+                        "Single Instance Step 5"
+                    ]
+                }
+            }
+        }
+    }, 
+    "name": "nightlight-google-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4"
+}

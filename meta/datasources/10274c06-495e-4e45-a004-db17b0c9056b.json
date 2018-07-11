@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 hybrid real-time real 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "10274c06-495e-4e45-a004-db17b0c9056b", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws", 
+    "parent": "9a4e7b40-1435-4ff8-ba56-9f7363747aab", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

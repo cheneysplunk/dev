@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto real resistors microservice best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dc6a93a5-7a3c-428c-be6a-b567007c3ff3", 
+    "name": "aws-orangeswirl-azure", 
+    "parent": "b3a2a085-86af-472a-9c01-13fe3d278321", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

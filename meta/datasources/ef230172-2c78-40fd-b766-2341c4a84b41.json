@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 quantum time 4.2 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ef230172-2c78-40fd-b766-2341c4a84b41", 
+    "name": "splunk-cicso-orangeswirl", 
+    "parent": "f5c2a9cf-3704-4df1-ab1f-8f2d7202c1d6", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time microservice time quantum sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b697dcc9-af8a-45a4-8e47-f2d454886860", 
+    "name": "splunk-aws-microsoft", 
+    "parent": "2db625f8-a0ff-45c8-86e3-d0c9b486b4ce", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

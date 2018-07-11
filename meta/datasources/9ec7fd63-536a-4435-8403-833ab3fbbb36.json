@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 3.4 microservice time 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9ec7fd63-536a-4435-8403-833ab3fbbb36", 
+    "name": "google-aws-google", 
+    "parent": "7d81cd2e-2396-415b-b632-2219f7ec9238", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data scale ssc quantum best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4a71238f-cf1c-4744-b7b1-3fda7fa5300f", 
+    "name": "splunk-google-aws", 
+    "parent": "dc61f9a5-c259-481a-81a0-5acc7dbb25cd", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

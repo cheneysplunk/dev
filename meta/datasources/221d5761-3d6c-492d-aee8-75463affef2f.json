@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 crypto quantum scale 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "221d5761-3d6c-492d-aee8-75463affef2f", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-splunk", 
+    "parent": "b99500cc-7105-437c-946a-b8189b6bbaa8", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}
